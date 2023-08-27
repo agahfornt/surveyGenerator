@@ -1,0 +1,1 @@
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\UnoApp1.Windows.csproj;x86

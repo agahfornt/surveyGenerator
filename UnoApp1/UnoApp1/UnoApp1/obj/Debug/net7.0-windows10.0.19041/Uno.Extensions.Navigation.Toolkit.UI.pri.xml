@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Extensions.Navigation.Toolkit.UI" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Extensions.Navigation.Toolkit.UI">
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="ModalFlyout.xbf" uri="ms-resource://Uno.Extensions.Navigation.Toolkit.UI/Files/Uno.Extensions.Navigation.Toolkit.UI/Controls/ModalFlyout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

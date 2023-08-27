@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Fonts.Roboto" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Fonts.Roboto">
+				<ResourceMapSubtree name="Fonts">
+					<NamedResource name="Roboto-Light.ttf" uri="ms-resource://Uno.Fonts.Roboto/Files/Uno.Fonts.Roboto/Fonts/Roboto-Light.ttf">
+						<Candidate type="Path">
+							<Value>Uno.Fonts.Roboto\Fonts\Roboto-Light.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Roboto-Medium.ttf" uri="ms-resource://Uno.Fonts.Roboto/Files/Uno.Fonts.Roboto/Fonts/Roboto-Medium.ttf">
+						<Candidate type="Path">
+							<Value>Uno.Fonts.Roboto\Fonts\Roboto-Medium.ttf</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Roboto-Regular.ttf" uri="ms-resource://Uno.Fonts.Roboto/Files/Uno.Fonts.Roboto/Fonts/Roboto-Regular.ttf">
+						<Candidate type="Path">
+							<Value>Uno.Fonts.Roboto\Fonts\Roboto-Regular.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

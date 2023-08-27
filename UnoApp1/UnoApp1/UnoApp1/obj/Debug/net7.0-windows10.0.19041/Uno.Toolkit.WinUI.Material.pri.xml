@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Toolkit.WinUI.Material" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Toolkit.WinUI.Material">
+				<ResourceMapSubtree name="Generated">
+					<NamedResource name="mergedpages.WinUI.v1.xbf" uri="ms-resource://Uno.Toolkit.WinUI.Material/Files/Uno.Toolkit.WinUI.Material/Generated/mergedpages.WinUI.v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="mergedpages.WinUI.v2.xbf" uri="ms-resource://Uno.Toolkit.WinUI.Material/Files/Uno.Toolkit.WinUI.Material/Generated/mergedpages.WinUI.v2.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

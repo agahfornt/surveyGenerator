@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Uno.Extensions.Navigation.UI" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Uno.Extensions.Navigation.UI">
+				<ResourceMapSubtree name="Controls">
+					<NamedResource name="FrameView.xbf" uri="ms-resource://Uno.Extensions.Navigation.UI/Files/Uno.Extensions.Navigation.UI/Controls/FrameView.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="NavigationFlyout.xbf" uri="ms-resource://Uno.Extensions.Navigation.UI/Files/Uno.Extensions.Navigation.UI/Controls/NavigationFlyout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
