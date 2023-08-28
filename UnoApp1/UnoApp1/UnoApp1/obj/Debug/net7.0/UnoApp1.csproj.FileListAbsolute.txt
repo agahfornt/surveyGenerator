@@ -1,4 +1,3 @@
-D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1.uprimarker
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\Icons\back.svg
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\SharedAssets.md
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\Icons\back.png
@@ -32,3 +31,4 @@ D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0\U
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0\refint\UnoApp1.dll
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0\UnoApp1.pdb
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0\ref\UnoApp1.dll
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1.uprimarker

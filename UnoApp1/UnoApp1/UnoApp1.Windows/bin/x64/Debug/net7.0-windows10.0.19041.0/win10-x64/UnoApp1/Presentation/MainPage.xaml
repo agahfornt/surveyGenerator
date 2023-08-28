@@ -10,27 +10,217 @@
 	NavigationCacheMode="Required"
 	Background="{ThemeResource BackgroundBrush}">
 
-	
+    <Page.Resources>
+        <!--aaa-->
+        <Style TargetType="ContentControl" x:Key="aaa">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Grid>
+                            <StackPanel 
+                                        Grid.Row="0" 
+                                        Orientation="Horizontal" 
+                                        Margin="0,0,0,0">
+                                <Border 
+                                        Width="130" 
+                                        Height="40" 
+                                        Padding="5" 
+                                        Margin="25,0,25,0" 
+                                        CornerRadius="5" 
+                                        HorizontalAlignment="Right">
+                                    <StackPanel 
+                                                Orientation="Horizontal">
+                                        <Ellipse>
+                                            <Ellipse.Style>
+                                                <Style TargetType="Ellipse">
+                                                    <Setter Property="Width" Value="20"/>
+                                                    <Setter Property="Height" Value="20"/>
+                                                    <Setter Property="Stroke" Value="Black"/>
+                                                    <Setter Property="StrokeThickness" Value="2"/>
+                                                    <Setter Property="Margin" Value="20,0,10,0"/>
+                                                </Style>
+                                            </Ellipse.Style>
+                                        </Ellipse>
+                                        <Ellipse>
+                                            <Ellipse.Style>
+                                                <Style TargetType="Ellipse">
+                                                    <Setter Property="Width" Value="20"/>
+                                                    <Setter Property="Height" Value="20"/>
+                                                    <Setter Property="Stroke" Value="Black"/>
+                                                    <Setter Property="StrokeThickness" Value="2"/>
+                                                    <Setter Property="Margin" Value="0,0,10,0"/>
+                                                </Style>
+                                            </Ellipse.Style>
+                                        </Ellipse>
+                                        <Ellipse>
+                                            <Ellipse.Style>
+                                                <Style TargetType="Ellipse">
+                                                    <Setter Property="Width" Value="20"/>
+                                                    <Setter Property="Height" Value="20"/>
+                                                    <Setter Property="Stroke" Value="Black"/>
+                                                    <Setter Property="StrokeThickness" Value="2"/>
+                                                    <Setter Property="Margin" Value="0,0,20,0"/>
+                                                </Style>
+                                            </Ellipse.Style>
+                                        </Ellipse>
+                                    </StackPanel>
+                                </Border>
+                                <Border  Width="130" Height="40" Padding="5" Margin="0,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="2">
+                                    <TextBox />
+                                </Border>
+                                <Border  Width="130" Height="40" Padding="5" Margin="5,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="2">
+                                    <TextBlock Text="گزینه اول" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Border>
+                            </StackPanel>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="VerticalAlignment" Value="Bottom"/>
+            <Setter Property="Margin" Value="0,0,0,0"/>
+        </Style>
+        
+        <!--bbb-->
+        <Style TargetType="ContentControl" x:Key="bbb">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Border Grid.Row="2" Width="130" Height="40" CornerRadius="20" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="25,0,0,0">
+                            <TextBlock Text="اضافه کردن" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <!--CCC-->
+        <Style TargetType="ContentControl" x:Key="ccc">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Grid.Row="3" Orientation="Horizontal" >
+                            <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
+                            <TextBlock Text="تعداد ستون ها :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <!--ddd-->
+        <Style TargetType="ContentControl" x:Key="ddd">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Grid.Row="4" Orientation="Horizontal">
+                            <Ellipse  Width="40" Height="40" Margin="25,0,25,0" Stroke="Black" StrokeThickness="2" />
+                            <TextBlock Text="رندوم کردن گزینه ها" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
 
-    <Grid x:ConnectionId='2' x:Name="main">
-        <Grid x:ConnectionId='3' x:Name="window" Background="Aquamarine" Width="500" Height="500" CornerRadius="10">
+        <!--eee-->
+        <Style TargetType="ContentControl" x:Key="eee">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Grid.Row="3" Orientation="Horizontal" >
+                            <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
+                            <TextBlock Text="تعداد ستون ها :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+
+    <Grid x:ConnectionId='7' x:Name="main">
+        <Grid x:ConnectionId='8' x:Name="window" Background="Aquamarine" Width="500" Height="500" CornerRadius="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="40"></RowDefinition>
                 <RowDefinition Height="*"></RowDefinition>
             </Grid.RowDefinitions>
-            <utu:TabBar Grid.Row="0"  Width="180" Height="40" HorizontalAlignment="Right" Margin="0,0,20,0">
+            
+             <!--Headera-->
+            <utu:TabBar Grid.Row="0"  Width="180" Height="40" HorizontalAlignment="Right" Margin="0,2,20,0">
                 <utu:TabBar.Items>
-                    <utu:TabBarItem Content="Tab 1" Width="90" Height="40"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
-                    <utu:TabBarItem Content="Tab 2" Width="90" Height="40"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
+                    <utu:TabBarItem Content="Tab 1" Width="90" Height="38"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
+                    <utu:TabBarItem Content="Tab 2" Width="90" Height="38"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
                 </utu:TabBar.Items>
             </utu:TabBar>
-            <Ellipse x:ConnectionId='4' x:Name="CLOSE" Grid.Row="0" Width="20" Height="20" Stroke="Black" StrokeThickness="2" HorizontalAlignment="Left" Margin="20,0,0,0"/>
+            <Ellipse x:ConnectionId='9' x:Name="CLOSE" Grid.Row="0" Width="20" Height="20" Stroke="Black" StrokeThickness="2" HorizontalAlignment="Left" Margin="20,0,0,0"/>
             <Rectangle Grid.Row="1" Fill="WhiteSmoke"/>
             
+            <!--Body-->
+            <Grid x:ConnectionId='10' x:Name="contentBody" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions> 
+                <!--Row1-->
+                <ContentControl Grid.Row="0"  Style="{StaticResource aaa}"/>
+                <!--<StackPanel  Orientation="Horizontal" Margin="0,25,0,0" Background="Navy">
+                    <Border  Background="Crimson" Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <StackPanel Orientation="Horizontal">
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="20,0,10,0"/>
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="0,0,10,0"/>
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="0,0,20,0"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Background="Crimson" Width="130" Height="40" Padding="5" Margin="0,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <TextBox />
+                    </Border>
+                    <Border Background="Crimson" Width="130" Height="40" Padding="5" Margin="5,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <TextBlock Text="گزینه اول" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </StackPanel>-->
+
+                <!--Row2-->
+                <ContentControl Grid.Row="1"  Style="{StaticResource aaa}"/>
+                <!--<StackPanel Grid.Row="1" Orientation="Horizontal" Background="Coral" >
+                    <Border Background="Crimson" Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <StackPanel Orientation="Horizontal">
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="20,0,10,0"/>
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="0,0,10,0"/>
+                            <Ellipse  Width="20" Height="20" Stroke="Black" StrokeThickness="2"  Margin="0,0,20,0"/>
+                        </StackPanel>
+                    </Border>
+                    <Border Background="Crimson" Width="130" Height="40" Padding="5" Margin="0,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <TextBox />
+                    </Border>
+                    <Border Background="Crimson" Width="130" Height="40" Padding="5" Margin="5,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
+                        <TextBlock Text="گزینه اول" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Border>
+                </StackPanel>-->
+                
+                <!--Row3-->
+                <ContentControl Grid.Row="2"  Style="{StaticResource bbb}"/>
+                <!--<Border Grid.Row="2" Background="Bisque" Width="130" Height="40" CornerRadius="20" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Margin="25,0,0,0">
+                    <TextBlock Text="اضافه کردن" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Border>-->
+                
+                <!--row4-->
+                <ContentControl Grid.Row="3"  Style="{StaticResource ccc}"/>
+                <!--<StackPanel Grid.Row="3" Orientation="Horizontal" Background="DarkGray">
+                    <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
+                    <TextBlock Text="تعداد ستون ها :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </StackPanel>-->
+                
+                <!--row5-->
+                <ContentControl Grid.Row="4"  Style="{StaticResource eee}"/>
+                <!--<StackPanel Grid.Row="4" Orientation="Horizontal" Background="Honeydew">
+                    <Ellipse  Width="40" Height="40" Margin="25,0,25,0" Stroke="Black" StrokeThickness="2" />
+                    <TextBlock Text="رندوم کردن گزینه ها" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </StackPanel>-->
+                
+            </Grid>
         </Grid>
-        
-        
-        
     </Grid>
 </Page>
 
