@@ -29,7 +29,7 @@ build_property.UnoUseXamlReaderHotReload = true
 build_property.IsUnoHead = 
 build_property.IsUnoHead = 
 build_property.UseWPF = 
-build_property.UnoRemoteControlPort = 53591
+build_property.UnoRemoteControlPort = 51953
 build_property.UnoRemoteControlHost = 
 build_property.UnoRemoteControlProcessorsPath = 
 build_property.UnoSkipUserControlsInVisualTree = 
@@ -69,6 +69,34 @@ build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.XamlRuntime = 
 
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/Likert.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Likert.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Likert.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Likert.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Likert.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/likertTable.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\likertTable.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\likertTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\likertTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\likertTable.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
 [D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/MainPage.xaml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.SourceItemGroup = Page
@@ -80,6 +108,62 @@ build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\
 build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\MainPage.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\MainPage.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\MainPage.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/moltiselectiveTable.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\moltiselectiveTable.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\moltiselectiveTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\moltiselectiveTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\moltiselectiveTable.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/multiAnswer.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiAnswer.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiAnswer.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiAnswer.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiAnswer.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/multianswerTable.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multianswerTable.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multianswerTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multianswerTable.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multianswerTable.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/multiSelective.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiSelective.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiSelective.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiSelective.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\multiSelective.xaml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.XamlRuntime = 
 

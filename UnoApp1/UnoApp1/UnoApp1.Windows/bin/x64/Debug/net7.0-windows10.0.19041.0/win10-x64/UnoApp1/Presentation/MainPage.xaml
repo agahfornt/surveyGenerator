@@ -9,7 +9,7 @@
 	xmlns:utu="using:Uno.Toolkit.UI"
 	NavigationCacheMode="Required"
 	Background="{ThemeResource BackgroundBrush}">
-
+    
     <Page.Resources>
         <!--aaa-->
         <Style TargetType="ContentControl" x:Key="aaa">
@@ -127,9 +127,53 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate>
-                        <StackPanel Grid.Row="3" Orientation="Horizontal" >
+                        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="25,0,0,0" >
+                            <TextBlock Text="گزینه انتخاب شود" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                             <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
-                            <TextBlock Text="تعداد ستون ها :" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            <TextBlock Text="حداقل" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!--fff-->
+        <Style TargetType="ContentControl" x:Key="fff">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="25,0,0,0" >
+                            <TextBlock Text="گزینه انتخاب شود" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
+                            <TextBlock Text="حداکثر" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!--ggg-->
+        <Style TargetType="ContentControl" x:Key="ggg">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="25,0,0,0" >
+                            <Border  Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right" BorderBrush="Black" BorderThickness="1"/>
+                            <TextBlock Text="تعداد طیف" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <!--HHH-->
+        <Style TargetType="ContentControl" x:Key="HHH">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <StackPanel Orientation="Horizontal" Margin="0,0,0,0">
+                            <ComboBox Background="Aqua" Width="130"  Margin="25,0,25,0" VerticalAlignment="Center"/>
+                            <TextBlock Text="استایل نمایش" VerticalAlignment="Center"/>
                         </StackPanel>
                     </ControlTemplate>
                 </Setter.Value>
@@ -137,11 +181,12 @@
         </Style>
     </Page.Resources>
 
-    <Grid x:ConnectionId='7' x:Name="main">
-        <Grid x:ConnectionId='8' x:Name="window" Background="Aquamarine" Width="500" Height="500" CornerRadius="10">
+    <Grid x:ConnectionId='10' x:Name="main">
+        <Grid x:ConnectionId='11' x:Name="window" Background="Aquamarine" Width="500" Height="1000" CornerRadius="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="40"></RowDefinition>
                 <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
             </Grid.RowDefinitions>
             
              <!--Headera-->
@@ -151,11 +196,11 @@
                     <utu:TabBarItem Content="Tab 2" Width="90" Height="38"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
                 </utu:TabBar.Items>
             </utu:TabBar>
-            <Ellipse x:ConnectionId='9' x:Name="CLOSE" Grid.Row="0" Width="20" Height="20" Stroke="Black" StrokeThickness="2" HorizontalAlignment="Left" Margin="20,0,0,0"/>
+            <Ellipse x:ConnectionId='12' x:Name="CLOSE" Grid.Row="0" Width="20" Height="20" Stroke="Black" StrokeThickness="2" HorizontalAlignment="Left" Margin="20,0,0,0"/>
             <Rectangle Grid.Row="1" Fill="WhiteSmoke"/>
             
             <!--Body-->
-            <Grid x:ConnectionId='10' x:Name="contentBody" Grid.Row="1">
+            <Grid x:ConnectionId='13' x:Name="contentBody" Grid.Row="1">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
                     <RowDefinition Height="*"/>
@@ -164,7 +209,7 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions> 
                 <!--Row1-->
-                <ContentControl Grid.Row="0"  Style="{StaticResource aaa}"/>
+                <local:multiAnswer Grid.Row="0"/>
                 <!--<StackPanel  Orientation="Horizontal" Margin="0,25,0,0" Background="Navy">
                     <Border  Background="Crimson" Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
                         <StackPanel Orientation="Horizontal">
@@ -213,13 +258,14 @@
                 </StackPanel>-->
                 
                 <!--row5-->
-                <ContentControl Grid.Row="4"  Style="{StaticResource eee}"/>
+                <ContentControl Grid.Row="4"  Style="{StaticResource HHH}"/>
                 <!--<StackPanel Grid.Row="4" Orientation="Horizontal" Background="Honeydew">
                     <Ellipse  Width="40" Height="40" Margin="25,0,25,0" Stroke="Black" StrokeThickness="2" />
                     <TextBlock Text="رندوم کردن گزینه ها" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                 </StackPanel>-->
-                
             </Grid>
+            <local:multiAnswer Grid.Row="2"/>
+            
         </Grid>
     </Grid>
 </Page>

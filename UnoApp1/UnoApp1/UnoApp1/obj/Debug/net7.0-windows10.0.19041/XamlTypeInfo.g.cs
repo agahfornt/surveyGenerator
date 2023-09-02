@@ -172,7 +172,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[55];
+            _typeNameTable = new string[61];
             _typeNameTable[0] = "Microsoft.UI.Xaml.Controls.XamlControlsResources";
             _typeNameTable[1] = "Microsoft.UI.Xaml.ResourceDictionary";
             _typeNameTable[2] = "Object";
@@ -198,38 +198,44 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeNameTable[22] = "Microsoft.UI.Xaml.Visibility";
             _typeNameTable[23] = "Microsoft.UI.Xaml.Controls.Primitives.FlyoutBase";
             _typeNameTable[24] = "System.Windows.Input.ICommand";
-            _typeNameTable[25] = "UnoApp1.Presentation.MainPage";
-            _typeNameTable[26] = "Microsoft.UI.Xaml.Controls.Page";
-            _typeNameTable[27] = "Microsoft.UI.Xaml.Controls.UserControl";
-            _typeNameTable[28] = "Uno.Toolkit.UI.SafeArea";
-            _typeNameTable[29] = "Uno.Toolkit.UI.SafeArea.InsetMask";
-            _typeNameTable[30] = "Uno.Toolkit.UI.SafeArea.InsetMode";
-            _typeNameTable[31] = "Uno.Toolkit.UI.NavigationBar";
-            _typeNameTable[32] = "Windows.Foundation.Collections.IObservableVector`1<Microsoft.UI.Xaml.Controls.ICommandBarElement>";
-            _typeNameTable[33] = "Microsoft.UI.Xaml.Controls.ICommandBarElement";
-            _typeNameTable[34] = "Microsoft.UI.Xaml.Controls.AppBarButton";
-            _typeNameTable[35] = "Uno.Toolkit.UI.NavigationBarClosedDisplayMode";
-            _typeNameTable[36] = "Microsoft.UI.Xaml.Controls.LightDismissOverlayMode";
-            _typeNameTable[37] = "Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility";
-            _typeNameTable[38] = "Uno.Toolkit.UI.NavigationBarDefaultLabelPosition";
-            _typeNameTable[39] = "Uno.Toolkit.UI.MainCommandMode";
-            _typeNameTable[40] = "UnoApp1.Presentation.SecondPage";
-            _typeNameTable[41] = "Uno.Toolkit.UI.ExtendedSplashScreen";
-            _typeNameTable[42] = "Uno.Toolkit.UI.LoadingView";
-            _typeNameTable[43] = "Uno.Toolkit.UI.SplashScreenPlatform";
-            _typeNameTable[44] = "Windows.ApplicationModel.Activation.SplashScreen";
-            _typeNameTable[45] = "Microsoft.UI.Xaml.Window";
-            _typeNameTable[46] = "Uno.Toolkit.ILoadable";
-            _typeNameTable[47] = "Microsoft.UI.Xaml.Controls.DataTemplateSelector";
-            _typeNameTable[48] = "Microsoft.UI.Xaml.Controls.ProgressRing";
-            _typeNameTable[49] = "Microsoft.UI.Xaml.Controls.Control";
-            _typeNameTable[50] = "Double";
-            _typeNameTable[51] = "Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings";
-            _typeNameTable[52] = "UnoApp1.Presentation.Shell";
-            _typeNameTable[53] = "Windows.UI.Color";
-            _typeNameTable[54] = "Byte";
+            _typeNameTable[25] = "UnoApp1.Presentation.Likert";
+            _typeNameTable[26] = "Microsoft.UI.Xaml.Controls.UserControl";
+            _typeNameTable[27] = "UnoApp1.Presentation.likertTable";
+            _typeNameTable[28] = "UnoApp1.Presentation.multiAnswer";
+            _typeNameTable[29] = "UnoApp1.Presentation.MainPage";
+            _typeNameTable[30] = "Microsoft.UI.Xaml.Controls.Page";
+            _typeNameTable[31] = "UnoApp1.Presentation.moltiselectiveTable";
+            _typeNameTable[32] = "UnoApp1.Presentation.multianswerTable";
+            _typeNameTable[33] = "UnoApp1.Presentation.multiSelective";
+            _typeNameTable[34] = "Uno.Toolkit.UI.SafeArea";
+            _typeNameTable[35] = "Uno.Toolkit.UI.SafeArea.InsetMask";
+            _typeNameTable[36] = "Uno.Toolkit.UI.SafeArea.InsetMode";
+            _typeNameTable[37] = "Uno.Toolkit.UI.NavigationBar";
+            _typeNameTable[38] = "Windows.Foundation.Collections.IObservableVector`1<Microsoft.UI.Xaml.Controls.ICommandBarElement>";
+            _typeNameTable[39] = "Microsoft.UI.Xaml.Controls.ICommandBarElement";
+            _typeNameTable[40] = "Microsoft.UI.Xaml.Controls.AppBarButton";
+            _typeNameTable[41] = "Uno.Toolkit.UI.NavigationBarClosedDisplayMode";
+            _typeNameTable[42] = "Microsoft.UI.Xaml.Controls.LightDismissOverlayMode";
+            _typeNameTable[43] = "Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility";
+            _typeNameTable[44] = "Uno.Toolkit.UI.NavigationBarDefaultLabelPosition";
+            _typeNameTable[45] = "Uno.Toolkit.UI.MainCommandMode";
+            _typeNameTable[46] = "UnoApp1.Presentation.SecondPage";
+            _typeNameTable[47] = "Uno.Toolkit.UI.ExtendedSplashScreen";
+            _typeNameTable[48] = "Uno.Toolkit.UI.LoadingView";
+            _typeNameTable[49] = "Uno.Toolkit.UI.SplashScreenPlatform";
+            _typeNameTable[50] = "Windows.ApplicationModel.Activation.SplashScreen";
+            _typeNameTable[51] = "Microsoft.UI.Xaml.Window";
+            _typeNameTable[52] = "Uno.Toolkit.ILoadable";
+            _typeNameTable[53] = "Microsoft.UI.Xaml.Controls.DataTemplateSelector";
+            _typeNameTable[54] = "Microsoft.UI.Xaml.Controls.ProgressRing";
+            _typeNameTable[55] = "Microsoft.UI.Xaml.Controls.Control";
+            _typeNameTable[56] = "Double";
+            _typeNameTable[57] = "Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings";
+            _typeNameTable[58] = "UnoApp1.Presentation.Shell";
+            _typeNameTable[59] = "Windows.UI.Color";
+            _typeNameTable[60] = "Byte";
 
-            _typeTable = new global::System.Type[55];
+            _typeTable = new global::System.Type[61];
             _typeTable[0] = typeof(global::Microsoft.UI.Xaml.Controls.XamlControlsResources);
             _typeTable[1] = typeof(global::Microsoft.UI.Xaml.ResourceDictionary);
             _typeTable[2] = typeof(global::System.Object);
@@ -255,36 +261,42 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeTable[22] = typeof(global::Microsoft.UI.Xaml.Visibility);
             _typeTable[23] = typeof(global::Microsoft.UI.Xaml.Controls.Primitives.FlyoutBase);
             _typeTable[24] = typeof(global::System.Windows.Input.ICommand);
-            _typeTable[25] = typeof(global::UnoApp1.Presentation.MainPage);
-            _typeTable[26] = typeof(global::Microsoft.UI.Xaml.Controls.Page);
-            _typeTable[27] = typeof(global::Microsoft.UI.Xaml.Controls.UserControl);
-            _typeTable[28] = typeof(global::Uno.Toolkit.UI.SafeArea);
-            _typeTable[29] = typeof(global::Uno.Toolkit.UI.SafeArea.InsetMask);
-            _typeTable[30] = typeof(global::Uno.Toolkit.UI.SafeArea.InsetMode);
-            _typeTable[31] = typeof(global::Uno.Toolkit.UI.NavigationBar);
-            _typeTable[32] = typeof(global::Windows.Foundation.Collections.IObservableVector<global::Microsoft.UI.Xaml.Controls.ICommandBarElement>);
-            _typeTable[33] = typeof(global::Microsoft.UI.Xaml.Controls.ICommandBarElement);
-            _typeTable[34] = typeof(global::Microsoft.UI.Xaml.Controls.AppBarButton);
-            _typeTable[35] = typeof(global::Uno.Toolkit.UI.NavigationBarClosedDisplayMode);
-            _typeTable[36] = typeof(global::Microsoft.UI.Xaml.Controls.LightDismissOverlayMode);
-            _typeTable[37] = typeof(global::Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility);
-            _typeTable[38] = typeof(global::Uno.Toolkit.UI.NavigationBarDefaultLabelPosition);
-            _typeTable[39] = typeof(global::Uno.Toolkit.UI.MainCommandMode);
-            _typeTable[40] = typeof(global::UnoApp1.Presentation.SecondPage);
-            _typeTable[41] = typeof(global::Uno.Toolkit.UI.ExtendedSplashScreen);
-            _typeTable[42] = typeof(global::Uno.Toolkit.UI.LoadingView);
-            _typeTable[43] = typeof(global::Uno.Toolkit.UI.SplashScreenPlatform);
-            _typeTable[44] = typeof(global::Windows.ApplicationModel.Activation.SplashScreen);
-            _typeTable[45] = typeof(global::Microsoft.UI.Xaml.Window);
-            _typeTable[46] = typeof(global::Uno.Toolkit.ILoadable);
-            _typeTable[47] = typeof(global::Microsoft.UI.Xaml.Controls.DataTemplateSelector);
-            _typeTable[48] = typeof(global::Microsoft.UI.Xaml.Controls.ProgressRing);
-            _typeTable[49] = typeof(global::Microsoft.UI.Xaml.Controls.Control);
-            _typeTable[50] = typeof(global::System.Double);
-            _typeTable[51] = typeof(global::Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings);
-            _typeTable[52] = typeof(global::UnoApp1.Presentation.Shell);
-            _typeTable[53] = typeof(global::Windows.UI.Color);
-            _typeTable[54] = typeof(global::System.Byte);
+            _typeTable[25] = typeof(global::UnoApp1.Presentation.Likert);
+            _typeTable[26] = typeof(global::Microsoft.UI.Xaml.Controls.UserControl);
+            _typeTable[27] = typeof(global::UnoApp1.Presentation.likertTable);
+            _typeTable[28] = typeof(global::UnoApp1.Presentation.multiAnswer);
+            _typeTable[29] = typeof(global::UnoApp1.Presentation.MainPage);
+            _typeTable[30] = typeof(global::Microsoft.UI.Xaml.Controls.Page);
+            _typeTable[31] = typeof(global::UnoApp1.Presentation.moltiselectiveTable);
+            _typeTable[32] = typeof(global::UnoApp1.Presentation.multianswerTable);
+            _typeTable[33] = typeof(global::UnoApp1.Presentation.multiSelective);
+            _typeTable[34] = typeof(global::Uno.Toolkit.UI.SafeArea);
+            _typeTable[35] = typeof(global::Uno.Toolkit.UI.SafeArea.InsetMask);
+            _typeTable[36] = typeof(global::Uno.Toolkit.UI.SafeArea.InsetMode);
+            _typeTable[37] = typeof(global::Uno.Toolkit.UI.NavigationBar);
+            _typeTable[38] = typeof(global::Windows.Foundation.Collections.IObservableVector<global::Microsoft.UI.Xaml.Controls.ICommandBarElement>);
+            _typeTable[39] = typeof(global::Microsoft.UI.Xaml.Controls.ICommandBarElement);
+            _typeTable[40] = typeof(global::Microsoft.UI.Xaml.Controls.AppBarButton);
+            _typeTable[41] = typeof(global::Uno.Toolkit.UI.NavigationBarClosedDisplayMode);
+            _typeTable[42] = typeof(global::Microsoft.UI.Xaml.Controls.LightDismissOverlayMode);
+            _typeTable[43] = typeof(global::Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility);
+            _typeTable[44] = typeof(global::Uno.Toolkit.UI.NavigationBarDefaultLabelPosition);
+            _typeTable[45] = typeof(global::Uno.Toolkit.UI.MainCommandMode);
+            _typeTable[46] = typeof(global::UnoApp1.Presentation.SecondPage);
+            _typeTable[47] = typeof(global::Uno.Toolkit.UI.ExtendedSplashScreen);
+            _typeTable[48] = typeof(global::Uno.Toolkit.UI.LoadingView);
+            _typeTable[49] = typeof(global::Uno.Toolkit.UI.SplashScreenPlatform);
+            _typeTable[50] = typeof(global::Windows.ApplicationModel.Activation.SplashScreen);
+            _typeTable[51] = typeof(global::Microsoft.UI.Xaml.Window);
+            _typeTable[52] = typeof(global::Uno.Toolkit.ILoadable);
+            _typeTable[53] = typeof(global::Microsoft.UI.Xaml.Controls.DataTemplateSelector);
+            _typeTable[54] = typeof(global::Microsoft.UI.Xaml.Controls.ProgressRing);
+            _typeTable[55] = typeof(global::Microsoft.UI.Xaml.Controls.Control);
+            _typeTable[56] = typeof(global::System.Double);
+            _typeTable[57] = typeof(global::Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings);
+            _typeTable[58] = typeof(global::UnoApp1.Presentation.Shell);
+            _typeTable[59] = typeof(global::Windows.UI.Color);
+            _typeTable[60] = typeof(global::System.Byte);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -324,14 +336,20 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
         private object Activate_6_TabBar() { return new global::Uno.Toolkit.UI.TabBar(); }
         private object Activate_9_TabBarTemplateSettings() { return new global::Uno.Toolkit.UI.TabBarTemplateSettings(); }
         private object Activate_18_TabBarItem() { return new global::Uno.Toolkit.UI.TabBarItem(); }
-        private object Activate_25_MainPage() { return new global::UnoApp1.Presentation.MainPage(); }
-        private object Activate_28_SafeArea() { return new global::Uno.Toolkit.UI.SafeArea(); }
-        private object Activate_31_NavigationBar() { return new global::Uno.Toolkit.UI.NavigationBar(); }
-        private object Activate_40_SecondPage() { return new global::UnoApp1.Presentation.SecondPage(); }
-        private object Activate_41_ExtendedSplashScreen() { return new global::Uno.Toolkit.UI.ExtendedSplashScreen(); }
-        private object Activate_42_LoadingView() { return new global::Uno.Toolkit.UI.LoadingView(); }
-        private object Activate_48_ProgressRing() { return new global::Microsoft.UI.Xaml.Controls.ProgressRing(); }
-        private object Activate_52_Shell() { return new global::UnoApp1.Presentation.Shell(); }
+        private object Activate_25_Likert() { return new global::UnoApp1.Presentation.Likert(); }
+        private object Activate_27_likertTable() { return new global::UnoApp1.Presentation.likertTable(); }
+        private object Activate_28_multiAnswer() { return new global::UnoApp1.Presentation.multiAnswer(); }
+        private object Activate_29_MainPage() { return new global::UnoApp1.Presentation.MainPage(); }
+        private object Activate_31_moltiselectiveTable() { return new global::UnoApp1.Presentation.moltiselectiveTable(); }
+        private object Activate_32_multianswerTable() { return new global::UnoApp1.Presentation.multianswerTable(); }
+        private object Activate_33_multiSelective() { return new global::UnoApp1.Presentation.multiSelective(); }
+        private object Activate_34_SafeArea() { return new global::Uno.Toolkit.UI.SafeArea(); }
+        private object Activate_37_NavigationBar() { return new global::Uno.Toolkit.UI.NavigationBar(); }
+        private object Activate_46_SecondPage() { return new global::UnoApp1.Presentation.SecondPage(); }
+        private object Activate_47_ExtendedSplashScreen() { return new global::Uno.Toolkit.UI.ExtendedSplashScreen(); }
+        private object Activate_48_LoadingView() { return new global::Uno.Toolkit.UI.LoadingView(); }
+        private object Activate_54_ProgressRing() { return new global::Microsoft.UI.Xaml.Controls.ProgressRing(); }
+        private object Activate_58_Shell() { return new global::UnoApp1.Presentation.Shell(); }
         private void MapAdd_0_XamlControlsResources(object instance, object key, object item)
         {
             var collection = (global::System.Collections.Generic.IDictionary<global::System.Object, global::System.Object>)instance;
@@ -346,7 +364,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             var newItem = (global::System.Object)item;
             collection.Add(newKey, newItem);
         }
-        private void VectorAdd_32_IObservableVector(object instance, object item)
+        private void VectorAdd_38_IObservableVector(object instance, object item)
         {
             var collection = (global::System.Collections.Generic.ICollection<global::Microsoft.UI.Xaml.Controls.ICommandBarElement>)instance;
             var newItem = (global::Microsoft.UI.Xaml.Controls.ICommandBarElement)item;
@@ -506,30 +524,72 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 25:   //  UnoApp1.Presentation.MainPage
-                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_25_MainPage;
+            case 25:   //  UnoApp1.Presentation.Likert
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_25_Likert;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 26:   //  Microsoft.UI.Xaml.Controls.Page
+            case 26:   //  Microsoft.UI.Xaml.Controls.UserControl
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 27:   //  Microsoft.UI.Xaml.Controls.UserControl
+            case 27:   //  UnoApp1.Presentation.likertTable
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_27_likertTable;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 28:   //  UnoApp1.Presentation.multiAnswer
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_28_multiAnswer;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 29:   //  UnoApp1.Presentation.MainPage
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_29_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 30:   //  Microsoft.UI.Xaml.Controls.Page
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 28:   //  Uno.Toolkit.UI.SafeArea
+            case 31:   //  UnoApp1.Presentation.moltiselectiveTable
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_31_moltiselectiveTable;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 32:   //  UnoApp1.Presentation.multianswerTable
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_32_multianswerTable;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 33:   //  UnoApp1.Presentation.multiSelective
+                userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
+                userType.Activator = Activate_33_multiSelective;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 34:   //  Uno.Toolkit.UI.SafeArea
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.ContentControl"));
-                userType.Activator = Activate_28_SafeArea;
+                userType.Activator = Activate_34_SafeArea;
                 userType.AddMemberName("Insets");
                 userType.AddMemberName("Mode");
                 xamlType = userType;
                 break;
 
-            case 29:   //  Uno.Toolkit.UI.SafeArea.InsetMask
+            case 35:   //  Uno.Toolkit.UI.SafeArea.InsetMask
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("None", global::Uno.Toolkit.UI.SafeArea.InsetMask.None);
                 userType.AddEnumValue("Top", global::Uno.Toolkit.UI.SafeArea.InsetMask.Top);
@@ -542,16 +602,16 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 30:   //  Uno.Toolkit.UI.SafeArea.InsetMode
+            case 36:   //  Uno.Toolkit.UI.SafeArea.InsetMode
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("Padding", global::Uno.Toolkit.UI.SafeArea.InsetMode.Padding);
                 userType.AddEnumValue("Margin", global::Uno.Toolkit.UI.SafeArea.InsetMode.Margin);
                 xamlType = userType;
                 break;
 
-            case 31:   //  Uno.Toolkit.UI.NavigationBar
+            case 37:   //  Uno.Toolkit.UI.NavigationBar
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.ContentControl"));
-                userType.Activator = Activate_31_NavigationBar;
+                userType.Activator = Activate_37_NavigationBar;
                 userType.SetContentPropertyName("Uno.Toolkit.UI.NavigationBar.PrimaryCommands");
                 userType.AddMemberName("PrimaryCommands");
                 userType.AddMemberName("MainCommand");
@@ -569,22 +629,22 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 32:   //  Windows.Foundation.Collections.IObservableVector`1<Microsoft.UI.Xaml.Controls.ICommandBarElement>
+            case 38:   //  Windows.Foundation.Collections.IObservableVector`1<Microsoft.UI.Xaml.Controls.ICommandBarElement>
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, null);
-                userType.CollectionAdd = VectorAdd_32_IObservableVector;
+                userType.CollectionAdd = VectorAdd_38_IObservableVector;
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 33:   //  Microsoft.UI.Xaml.Controls.ICommandBarElement
+            case 39:   //  Microsoft.UI.Xaml.Controls.ICommandBarElement
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 34:   //  Microsoft.UI.Xaml.Controls.AppBarButton
+            case 40:   //  Microsoft.UI.Xaml.Controls.AppBarButton
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 35:   //  Uno.Toolkit.UI.NavigationBarClosedDisplayMode
+            case 41:   //  Uno.Toolkit.UI.NavigationBarClosedDisplayMode
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("Compact", global::Uno.Toolkit.UI.NavigationBarClosedDisplayMode.Compact);
                 userType.AddEnumValue("Minimal", global::Uno.Toolkit.UI.NavigationBarClosedDisplayMode.Minimal);
@@ -592,11 +652,11 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 36:   //  Microsoft.UI.Xaml.Controls.LightDismissOverlayMode
+            case 42:   //  Microsoft.UI.Xaml.Controls.LightDismissOverlayMode
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 37:   //  Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility
+            case 43:   //  Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("Auto", global::Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility.Auto);
                 userType.AddEnumValue("Visible", global::Uno.Toolkit.UI.NavigationBarOverflowButtonVisibility.Visible);
@@ -604,7 +664,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 38:   //  Uno.Toolkit.UI.NavigationBarDefaultLabelPosition
+            case 44:   //  Uno.Toolkit.UI.NavigationBarDefaultLabelPosition
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("Bottom", global::Uno.Toolkit.UI.NavigationBarDefaultLabelPosition.Bottom);
                 userType.AddEnumValue("Right", global::Uno.Toolkit.UI.NavigationBarDefaultLabelPosition.Right);
@@ -612,23 +672,23 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 39:   //  Uno.Toolkit.UI.MainCommandMode
+            case 45:   //  Uno.Toolkit.UI.MainCommandMode
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("Back", global::Uno.Toolkit.UI.MainCommandMode.Back);
                 userType.AddEnumValue("Action", global::Uno.Toolkit.UI.MainCommandMode.Action);
                 xamlType = userType;
                 break;
 
-            case 40:   //  UnoApp1.Presentation.SecondPage
+            case 46:   //  UnoApp1.Presentation.SecondPage
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_40_SecondPage;
+                userType.Activator = Activate_46_SecondPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 41:   //  Uno.Toolkit.UI.ExtendedSplashScreen
+            case 47:   //  Uno.Toolkit.UI.ExtendedSplashScreen
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Uno.Toolkit.UI.LoadingView"));
-                userType.Activator = Activate_41_ExtendedSplashScreen;
+                userType.Activator = Activate_47_ExtendedSplashScreen;
                 userType.AddMemberName("Platforms");
                 userType.AddMemberName("SplashScreen");
                 userType.AddMemberName("Window");
@@ -636,9 +696,9 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 42:   //  Uno.Toolkit.UI.LoadingView
+            case 48:   //  Uno.Toolkit.UI.LoadingView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.ContentControl"));
-                userType.Activator = Activate_42_LoadingView;
+                userType.Activator = Activate_48_LoadingView;
                 userType.AddMemberName("LoadingContentTemplate");
                 userType.AddMemberName("UseTransitions");
                 userType.AddMemberName("Source");
@@ -647,7 +707,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 43:   //  Uno.Toolkit.UI.SplashScreenPlatform
+            case 49:   //  Uno.Toolkit.UI.SplashScreenPlatform
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.Enum"));
                 userType.AddEnumValue("None", global::Uno.Toolkit.UI.SplashScreenPlatform.None);
                 userType.AddEnumValue("Android", global::Uno.Toolkit.UI.SplashScreenPlatform.Android);
@@ -659,29 +719,29 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 44:   //  Windows.ApplicationModel.Activation.SplashScreen
+            case 50:   //  Windows.ApplicationModel.Activation.SplashScreen
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Object"));
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 45:   //  Microsoft.UI.Xaml.Window
+            case 51:   //  Microsoft.UI.Xaml.Window
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 46:   //  Uno.Toolkit.ILoadable
+            case 52:   //  Uno.Toolkit.ILoadable
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, null);
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 47:   //  Microsoft.UI.Xaml.Controls.DataTemplateSelector
+            case 53:   //  Microsoft.UI.Xaml.Controls.DataTemplateSelector
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 48:   //  Microsoft.UI.Xaml.Controls.ProgressRing
+            case 54:   //  Microsoft.UI.Xaml.Controls.ProgressRing
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.Control"));
-                userType.Activator = Activate_48_ProgressRing;
+                userType.Activator = Activate_54_ProgressRing;
                 userType.AddMemberName("IsActive");
                 userType.AddMemberName("IsIndeterminate");
                 userType.AddMemberName("Maximum");
@@ -691,29 +751,29 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 49:   //  Microsoft.UI.Xaml.Controls.Control
+            case 55:   //  Microsoft.UI.Xaml.Controls.Control
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 50:   //  Double
+            case 56:   //  Double
                 xamlType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 51:   //  Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings
+            case 57:   //  Microsoft.UI.Xaml.Controls.ProgressRingTemplateSettings
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.DependencyObject"));
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;
                 break;
 
-            case 52:   //  UnoApp1.Presentation.Shell
+            case 58:   //  UnoApp1.Presentation.Shell
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_52_Shell;
+                userType.Activator = Activate_58_Shell;
                 userType.AddMemberName("ContentControl");
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 53:   //  Windows.UI.Color
+            case 59:   //  Windows.UI.Color
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.ValueType"));
                 userType.AddMemberName("A");
                 userType.AddMemberName("R");
@@ -722,7 +782,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 54:   //  Byte
+            case 60:   //  Byte
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("System.ValueType"));
                 userType.SetIsReturnTypeStub();
                 xamlType = userType;

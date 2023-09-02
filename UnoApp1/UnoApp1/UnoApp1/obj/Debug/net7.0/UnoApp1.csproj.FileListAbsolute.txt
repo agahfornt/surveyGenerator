@@ -1,4 +1,5 @@
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\Icons\back.svg
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\logo.png
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\SharedAssets.md
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\Icons\back.png
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0\UnoApp1\Assets\Icons\back.scale-100.png

@@ -1,0 +1,6 @@
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.csproj.AssemblyReference.cache
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.d-bfalse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.AssemblyInfoInputs.cache
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.AssemblyInfo.cs
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.csproj.CoreCompileInputs.cache
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Server\obj\Debug\net7.0\UnoApp1.Server.MvcApplicationPartsAssemblyInfo.cache

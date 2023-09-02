@@ -9,7 +9,7 @@
 	xmlns:utu="using:Uno.Toolkit.UI"
 	NavigationCacheMode="Required"
 	Background="{ThemeResource BackgroundBrush}">
-
+    
     <Page.Resources>
         <!--aaa-->
         <Style TargetType="ContentControl" x:Key="aaa">
@@ -182,10 +182,11 @@
     </Page.Resources>
 
     <Grid x:Name="main">
-        <Grid x:Name="window" Background="Aquamarine" Width="500" Height="500" CornerRadius="10">
+        <Grid x:Name="window" Background="Aquamarine" Width="500" Height="1000" CornerRadius="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="40"></RowDefinition>
                 <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="2*"></RowDefinition>
             </Grid.RowDefinitions>
             
              <!--Headera-->
@@ -208,7 +209,7 @@
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions> 
                 <!--Row1-->
-                <ContentControl Grid.Row="0"  Style="{StaticResource aaa}"/>
+                <local:multiAnswer Grid.Row="0"/>
                 <!--<StackPanel  Orientation="Horizontal" Margin="0,25,0,0" Background="Navy">
                     <Border  Background="Crimson" Width="130" Height="40" Padding="5" Margin="25,0,25,0" CornerRadius="5" HorizontalAlignment="Right">
                         <StackPanel Orientation="Horizontal">
@@ -262,8 +263,9 @@
                     <Ellipse  Width="40" Height="40" Margin="25,0,25,0" Stroke="Black" StrokeThickness="2" />
                     <TextBlock Text="رندوم کردن گزینه ها" VerticalAlignment="Center" HorizontalAlignment="Center"/>
                 </StackPanel>-->
-                
             </Grid>
+            <local:multiAnswer Grid.Row="2"/>
+            
         </Grid>
     </Grid>
 </Page>

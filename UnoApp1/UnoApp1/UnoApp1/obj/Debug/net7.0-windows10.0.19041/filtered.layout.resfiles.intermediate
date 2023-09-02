@@ -1,7 +1,14 @@
 UnoApp1\Assets\Icons\back.svg
+UnoApp1\Assets\logo.png
 UnoApp1\Assets\SharedAssets.md
 UnoApp1\AppResources.xbf
+UnoApp1\Presentation\Likert.xbf
+UnoApp1\Presentation\likertTable.xbf
 UnoApp1\Presentation\MainPage.xbf
+UnoApp1\Presentation\moltiselectiveTable.xbf
+UnoApp1\Presentation\multiAnswer.xbf
+UnoApp1\Presentation\multianswerTable.xbf
+UnoApp1\Presentation\multiSelective.xbf
 UnoApp1\Presentation\SecondPage.xbf
 UnoApp1\Presentation\Shell.xbf
 UnoApp1\Styles\ColorPaletteOverride.xbf
