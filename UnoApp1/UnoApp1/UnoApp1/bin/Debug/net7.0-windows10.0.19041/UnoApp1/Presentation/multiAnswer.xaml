@@ -33,18 +33,20 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
             <!--Header-->
-            <Grid  Grid.Row="0" VerticalAlignment="Top" Height="40" Background="Cornsilk">
+            <Grid  Grid.Row="0" VerticalAlignment="Top" Height="40"  >
                 <utu:TabBar  Width="180" Height="40" HorizontalAlignment="Right"  Margin="0,2,20,0">
                     <utu:TabBar.Items>
-                        <utu:TabBarItem Content="Tab 1" Width="90" Height="38"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
-                        <utu:TabBarItem Content="Tab 2" Width="90" Height="38"  BorderBrush="Black" BorderThickness="1" VerticalAlignment="Top"/>
+                        <utu:TabBarItem Content="پاسخ" Width="90" Height="38" Background="#E7EEED" BorderThickness="1" VerticalAlignment="Top" />
+                        <utu:TabBarItem Content="پرسش" Width="90" Height="38"  BorderThickness="1" VerticalAlignment="Top" />
                     </utu:TabBar.Items>
                 </utu:TabBar>
-                <Ellipse x:ConnectionId='3' x:Name="CLOSE"  Width="20" Height="20" Stroke="Black" Fill="Aqua"  StrokeThickness="2" HorizontalAlignment="Left"  Margin="20,0,0,0"/>
+                <Ellipse x:ConnectionId='3' x:Name="CLOSE"  Width="20" Height="20" Stroke="Black" Fill="#e6f0f2"  StrokeThickness="2" HorizontalAlignment="Left"  Margin="20,0,0,0"/>
             </Grid>
+            
             
             <!--Row1-->
             <ContentControl Grid.Row="1" ContentTemplate="{StaticResource txtAnswer}"/>
@@ -64,7 +66,7 @@
           
 
             <!--Row5-->
-            <ContentControl Grid.Row="4" ContentTemplate="{StaticResource randomizeKey}" />
+            <ContentControl Grid.Row="5" ContentTemplate="{StaticResource randomizeKey}" />
            
 
         </Grid>
