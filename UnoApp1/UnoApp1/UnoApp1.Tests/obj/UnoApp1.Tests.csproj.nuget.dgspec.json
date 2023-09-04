@@ -81,6 +81,7 @@
             "Uno.Extensions.Serialization.Http": "[2.4.2, )",
             "Uno.Extensions.Serialization.Refit": "[2.4.2, )",
             "Uno.Extensions.Toolkit.WinUI": "[2.4.2, )",
+            "Uno.Fonts.Fluent": "[2.2.2, )",
             "Uno.Material.WinUI": "[2.6.1, )",
             "Uno.Resizetizer": "[1.1.2, )",
             "Uno.Toolkit.WinUI": "[3.0.5, )",
@@ -225,6 +226,7 @@
             "Uno.Extensions.Serialization.Http": "[2.4.2, )",
             "Uno.Extensions.Serialization.Refit": "[2.4.2, )",
             "Uno.Extensions.Toolkit.WinUI": "[2.4.2, )",
+            "Uno.Fonts.Fluent": "[2.2.2, )",
             "Uno.Material.WinUI": "[2.6.1, )",
             "Uno.Resizetizer": "[1.1.2, )",
             "Uno.Toolkit.WinUI": "[3.0.5, )",
@@ -390,6 +392,11 @@
               "version": "[2.4.2, )",
               "versionCentrallyManaged": true
             },
+            "Uno.Fonts.Fluent": {
+              "target": "Package",
+              "version": "[2.2.2, )",
+              "versionCentrallyManaged": true
+            },
             "Uno.Material.WinUI": {
               "target": "Package",
               "version": "[2.6.1, )",
@@ -449,6 +456,7 @@
             "Uno.Extensions.Serialization.Http": "[2.4.2, )",
             "Uno.Extensions.Serialization.Refit": "[2.4.2, )",
             "Uno.Extensions.Toolkit.WinUI": "[2.4.2, )",
+            "Uno.Fonts.Fluent": "[2.2.2, )",
             "Uno.Material.WinUI": "[2.6.1, )",
             "Uno.Resizetizer": "[1.1.2, )",
             "Uno.Toolkit.WinUI": "[3.0.5, )",
@@ -566,6 +574,11 @@
               "version": "[2.4.2, )",
               "versionCentrallyManaged": true
             },
+            "Uno.Fonts.Fluent": {
+              "target": "Package",
+              "version": "[2.2.2, )",
+              "versionCentrallyManaged": true
+            },
             "Uno.Material.WinUI": {
               "target": "Package",
               "version": "[2.6.1, )",
@@ -625,6 +638,7 @@
             "Uno.Extensions.Serialization.Http": "[2.4.2, )",
             "Uno.Extensions.Serialization.Refit": "[2.4.2, )",
             "Uno.Extensions.Toolkit.WinUI": "[2.4.2, )",
+            "Uno.Fonts.Fluent": "[2.2.2, )",
             "Uno.Material.WinUI": "[2.6.1, )",
             "Uno.Resizetizer": "[1.1.2, )",
             "Uno.Toolkit.WinUI": "[3.0.5, )",

@@ -29,7 +29,7 @@ build_property.UnoUseXamlReaderHotReload = true
 build_property.IsUnoHead = 
 build_property.IsUnoHead = 
 build_property.UseWPF = 
-build_property.UnoRemoteControlPort = 51953
+build_property.UnoRemoteControlPort = 53415
 build_property.UnoRemoteControlHost = 
 build_property.UnoRemoteControlProcessorsPath = 
 build_property.UnoSkipUserControlsInVisualTree = 
@@ -66,6 +66,34 @@ build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\
 build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\AppResources.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\AppResources.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\AppResources.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/groupBoxes/answerGBox.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\answerGBox.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\answerGBox.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\answerGBox.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\answerGBox.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/groupBoxes/colsettingGBox.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\colsettingGBox.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\colsettingGBox.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\colsettingGBox.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\groupBoxes\colsettingGBox.xaml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.XamlRuntime = 
 
@@ -192,6 +220,62 @@ build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\
 build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Shell.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Shell.xaml
 build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\Shell.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/views/multiAnswerView.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\views\multiAnswerView.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\views\multiAnswerView.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\views\multiAnswerView.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\views\multiAnswerView.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/viewUsercontrol/answer/multianswerUserControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/viewUsercontrol/answer/UserControl1.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xaml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.XamlRuntime = 
+
+[D:/Repository/AzurDev/surveyGenerator/UnoApp1/UnoApp1/UnoApp1/Presentation/viewUsercontrol/question/multianswerQuestionControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml
+build_metadata.AdditionalFiles.FullPath = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml
+build_metadata.AdditionalFiles.Identity = D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.XamlRuntime = 
 

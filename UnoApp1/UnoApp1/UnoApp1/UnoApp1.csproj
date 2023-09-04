@@ -9,6 +9,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="Uno.Dsp.Tasks" />
+		<PackageReference Include="Uno.Fonts.Fluent" />
 		<PackageReference Include="Uno.WinUI" />
 		<PackageReference Include="Uno.Resizetizer" />
 		<PackageReference Include="CommunityToolkit.Mvvm" />
@@ -74,21 +75,33 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Presentation\groupBoxes\answerGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\colsettingGBox.xaml" />
 	  <None Remove="Presentation\Likert.xaml" />
 	  <None Remove="Presentation\likertTable.xaml" />
 	  <None Remove="Presentation\moltiselectiveTable.xaml" />
 	  <None Remove="Presentation\multiAnswer.xaml" />
 	  <None Remove="Presentation\multianswerTable.xaml" />
 	  <None Remove="Presentation\multiSelective.xaml" />
+	  <None Remove="Presentation\views\multiAnswerView.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\answerGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\colsettingGBox.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\Likert.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\likertTable.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\moltiselectiveTable.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multiAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multianswerTable.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multiSelective.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\multiAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -113,5 +126,29 @@
 
 	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\likertTable.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\answerGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\colsettingGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\multiAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
 	</ItemGroup>
 </Project>
