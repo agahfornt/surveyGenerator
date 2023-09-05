@@ -1,7 +1,7 @@
 ﻿<Page x:Class="UnoApp1.Presentation.MainPage"
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-	xmlns:local="using:UnoApp1.Presentation.views"
+	xmlns:local="using:UnoApp1.Presentation"
 	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
 	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 	mc:Ignorable="d"
@@ -13,11 +13,11 @@
     
 
     <Grid x:Name="main">
-        <Grid x:Name="window" Visibility="Collapsed"  Width="500" Height="450" CornerRadius="10">
-
+        <Grid x:Name="window" Visibility="Visible"  Width="500" Height="450" CornerRadius="10">
+            <local:multiAnswer />
         </Grid>
-        <Grid Width="800" Height="650" CornerRadius="10">
+        <!--<Grid Width="800" Visibility="Collapsed" Height="650" CornerRadius="10">
             <local:multiAnswerView />
-        </Grid>
+        </Grid>-->
     </Grid>
 </Page>

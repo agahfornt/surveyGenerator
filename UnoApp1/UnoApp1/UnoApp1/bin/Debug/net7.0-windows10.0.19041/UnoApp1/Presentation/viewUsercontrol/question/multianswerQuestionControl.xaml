@@ -9,7 +9,7 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
 
-    <Grid Background="WhiteSmoke" VerticalAlignment="Center">
+    <!--<Grid Background="WhiteSmoke" VerticalAlignment="Center">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
@@ -19,6 +19,6 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Border Grid.Column="1" Grid.Row="0" Background="Black"/>
-    </Grid>
+    </Grid>-->
 </UserControl>
 

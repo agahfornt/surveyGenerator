@@ -10,8 +10,13 @@
     d:DesignWidth="400">
 
     <Grid>
-        <local:multianswerUserControl/>
-        <local:UserControl1/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <local:UserControl1 Grid.Row="0"/>
+        <local:multianswerUserControl Grid.Row="1"/>
     </Grid>
 </UserControl>
 
