@@ -1,0 +1,56 @@
+﻿<UserControl
+    x:Class="UnoApp1.Presentation.dateAnswer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UnoApp1.Presentation"
+    xmlns:GrpBox="using:UnoApp1.Presentation.groupBoxes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:uen="using:Uno.Extensions.Navigation.UI"
+    xmlns:utu="using:Uno.Toolkit.UI"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <!--Body-->
+        <Grid x:ConnectionId='2' x:Name="contentBody" Grid.Row="1" Height="500" Background="WhiteSmoke" CornerRadius="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!--Header-->
+            <Grid Grid.Row="0" Height="40" VerticalAlignment="Top">
+                <utu:TabBar VerticalAlignment="Center">
+                    <utu:TabBar.Items>
+                        <utu:TabBarItem Content="پاسخ" FontFamily="B yekan"/>
+                        <utu:TabBarItem Content="پرسش" FontFamily="B yekan"/>
+                    </utu:TabBar.Items>
+                </utu:TabBar>
+                <Grid HorizontalAlignment="Left" Margin="10,0,0,0">
+
+                </Grid>
+            </Grid>
+
+
+            <!--Row1-->
+            <GrpBox:dateoptionGBox Grid.Row="1"/>
+
+            <!--Row2-->
+            <GrpBox:drpDownStyleSelect Grid.Row="2"/>
+            
+            <!--Row3-->
+            <GrpBox:lableSetting Grid.Row="3"/>
+
+            <!--Row4-->
+            <Button Style="{StaticResource btnClose}" Grid.Row="4"/>
+        </Grid>
+    </Grid>
+</UserControl>
+

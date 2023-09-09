@@ -75,14 +75,29 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Presentation\dateAnswer.xaml" />
 	  <None Remove="Presentation\groupBoxes\answerGBox.xaml" />
 	  <None Remove="Presentation\groupBoxes\colsettingGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\dateoptionGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\drpDownChoose from the options.xaml" />
+	  <None Remove="Presentation\groupBoxes\drpDownStyleSelect.xaml" />
+	  <None Remove="Presentation\groupBoxes\lableSetting.xaml" />
+	  <None Remove="Presentation\groupBoxes\like_dislikeGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\min_maxSelect.xaml" />
+	  <None Remove="Presentation\groupBoxes\namingColumnGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\numberphoneGBox.xaml" />
+	  <None Remove="Presentation\groupBoxes\scaleCount.xaml" />
+	  <None Remove="Presentation\groupBoxes\timeoptionGBox.xaml" />
 	  <None Remove="Presentation\Likert.xaml" />
 	  <None Remove="Presentation\likertTable.xaml" />
+	  <None Remove="Presentation\like_dislikeAnswer.xaml" />
 	  <None Remove="Presentation\moltiselectiveTable.xaml" />
 	  <None Remove="Presentation\multiAnswer.xaml" />
 	  <None Remove="Presentation\multianswerTable.xaml" />
 	  <None Remove="Presentation\multiSelective.xaml" />
+	  <None Remove="Presentation\numberphoneAnswer.xaml" />
+	  <None Remove="Presentation\tabBar.xaml" />
+	  <None Remove="Presentation\timeAnswer.xaml" />
 	  <None Remove="Presentation\views\multiAnswerView.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
@@ -90,14 +105,29 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <UpToDateCheckInput Remove="Presentation\dateAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\groupBoxes\answerGBox.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\groupBoxes\colsettingGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\dateoptionGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\drpDownChoose from the options.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\drpDownStyleSelect.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\lableSetting.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\like_dislikeGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\min_maxSelect.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\namingColumnGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\numberphoneGBox.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\scaleCount.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\groupBoxes\timeoptionGBox.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\Likert.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\likertTable.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\like_dislikeAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\moltiselectiveTable.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multiAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multianswerTable.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\multiSelective.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\numberphoneAnswer.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\tabBar.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\timeAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\multiAnswerView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
@@ -150,5 +180,65 @@
 
 	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\min_maxSelect.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\tabBar.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\scaleCount.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\drpDownStyleSelect.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\lableSetting.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\drpDownChoose from the options.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\namingColumnGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\dateAnswer.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\dateoptionGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\timeAnswer.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\timeoptionGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\like_dislikeAnswer.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\like_dislikeGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\numberphoneAnswer.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\groupBoxes\numberphoneGBox.xaml" />
 	</ItemGroup>
 </Project>
