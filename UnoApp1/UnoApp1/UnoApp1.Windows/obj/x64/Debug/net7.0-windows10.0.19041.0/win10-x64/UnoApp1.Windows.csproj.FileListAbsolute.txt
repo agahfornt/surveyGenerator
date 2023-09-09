@@ -502,9 +502,7 @@ D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\De
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xbf
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\views\multiAnswerView.xaml
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xaml
-D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xbf
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf
-D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\answer\UserControl1.xaml
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\groupBoxes\min_maxSelect.xbf
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1\Presentation\groupBoxes\min_maxSelect.xaml

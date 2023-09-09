@@ -100,7 +100,6 @@
 	  <None Remove="Presentation\timeAnswer.xaml" />
 	  <None Remove="Presentation\views\multiAnswerView.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
-	  <None Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
@@ -130,7 +129,6 @@
 	  <UpToDateCheckInput Remove="Presentation\timeAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\multiAnswerView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
-	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
@@ -176,10 +174,6 @@
 
 	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\UserControl1.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>

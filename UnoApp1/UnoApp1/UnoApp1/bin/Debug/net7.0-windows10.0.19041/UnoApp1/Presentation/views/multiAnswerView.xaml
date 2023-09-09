@@ -16,7 +16,7 @@
             <RowDefinition Height="2*"/>
             <RowDefinition Height="2*"/>
         </Grid.RowDefinitions>
-        <local:UserControl1 Grid.Row="0"/>
+        <local:multianswerUserControl Grid.Row="0"/>
         <question:multianswerQuestionControl Grid.Row="1"/>
     </Grid>
 </UserControl>

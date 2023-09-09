@@ -77,11 +77,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="Presentation\viewUsercontrol\answer\UserControl1.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-  </ItemGroup>
-  <ItemGroup>
     <Page Update="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml">
       <SubType>Designer</SubType>
     </Page>
