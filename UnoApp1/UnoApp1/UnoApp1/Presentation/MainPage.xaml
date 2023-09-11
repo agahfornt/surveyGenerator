@@ -16,7 +16,7 @@
     <Grid x:Name="main">
         <Grid x:Name="window" Visibility="Visible"  Width="500" Height="550" CornerRadius="10">
             <!--<local:multiAnswer />-->
-            <local:multiAnswerView/>
+            <local:regionselectView/>
         </Grid>
         <Grid Width="800" Visibility="Collapsed" Height="650" CornerRadius="10">
             

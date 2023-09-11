@@ -98,8 +98,32 @@
 	  <None Remove="Presentation\numberphoneAnswer.xaml" />
 	  <None Remove="Presentation\tabBar.xaml" />
 	  <None Remove="Presentation\timeAnswer.xaml" />
+	  <None Remove="Presentation\views\attachFileAnswer.xaml" />
+	  <None Remove="Presentation\views\creditcardView.xaml" />
+	  <None Remove="Presentation\views\dateAnswerView.xaml" />
+	  <None Remove="Presentation\views\emailAnswerView.xaml" />
+	  <None Remove="Presentation\views\likertAnswerView.xaml" />
+	  <None Remove="Presentation\views\likertTableView.xaml" />
+	  <None Remove="Presentation\views\like_dislikeAnswerView.xaml" />
+	  <None Remove="Presentation\views\mobilNumberView.xaml" />
 	  <None Remove="Presentation\views\multiAnswerView.xaml" />
+	  <None Remove="Presentation\views\multiselectiveTableView.xaml" />
+	  <None Remove="Presentation\views\multyAnswerTableView.xaml" />
+	  <None Remove="Presentation\views\multySelectiveView.xaml" />
+	  <None Remove="Presentation\views\regionselectView.xaml" />
+	  <None Remove="Presentation\views\timeAnswerView.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\browseFileUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\cityselectUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\countryselectUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\creditcardUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\dateAnswerUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\emailanswerUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\likertscaleUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\mobileNumberUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xaml" />
+	  <None Remove="Presentation\viewUsercontrol\answer\timeanswerUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
@@ -127,8 +151,32 @@
 	  <UpToDateCheckInput Remove="Presentation\numberphoneAnswer.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\tabBar.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\timeAnswer.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\attachFileAnswer.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\creditcardView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\dateAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\emailAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\likertAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\likertTableView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\like_dislikeAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\mobilNumberView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\multiAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\multiselectiveTableView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\multyAnswerTableView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\multySelectiveView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\regionselectView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\timeAnswerView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\browseFileUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\cityselectUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\countryselectUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\creditcardUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\dateAnswerUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\emailanswerUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\likertscaleUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\mobileNumberUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multianswerUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\timeanswerUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
 	</ItemGroup>
 
@@ -205,10 +253,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <AdditionalFiles Remove="Presentation\dateAnswer.xaml" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\groupBoxes\dateoptionGBox.xaml" />
 	</ItemGroup>
 
@@ -234,5 +278,101 @@
 
 	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\groupBoxes\numberphoneGBox.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\multySelectiveView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\attachFileAnswer.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\browseFileUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\likertscaleUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\likertAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\multyAnswerTableView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\multiselectiveTableView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\likertTableView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\dateAnswerUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\dateAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\timeAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\timeanswerUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\like_dislikeAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\mobilNumberView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\mobileNumberUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\emailAnswerView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\emailanswerUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\creditcardView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\creditcardUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\regionselectView.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\cityselectUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\countryselectUserControl.xaml" />
 	</ItemGroup>
 </Project>

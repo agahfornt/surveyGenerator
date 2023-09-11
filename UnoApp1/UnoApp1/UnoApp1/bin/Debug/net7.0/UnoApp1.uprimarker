@@ -16,6 +16,8 @@ Assets\Icons\square_down.svg
 Assets\Icons\square_minus.svg
 Assets\Icons\square_plus.svg
 Assets\Icons\square_up.svg
+Assets\Icons\star.svg
+Assets\Icons\star_on.svg
 Assets\logo.png
 Assets\SharedAssets.md
 obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\back.png
@@ -130,3 +132,17 @@ obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\square_up.scale-150.png
 obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\square_up.scale-200.png
 obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\square_up.scale-300.png
 obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\square_up.scale-400.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-100.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-125.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-150.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-200.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-300.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star.scale-400.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-100.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-125.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-150.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-200.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-300.png
+obj\Debug\net7.0\unoresizetizer\r\Assets\Icons\star_on.scale-400.png

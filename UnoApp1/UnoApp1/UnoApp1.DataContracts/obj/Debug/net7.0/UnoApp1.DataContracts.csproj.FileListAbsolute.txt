@@ -1,5 +1,5 @@
-D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.deps.json
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.dll
+D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.deps.json
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.pdb
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.xml
 D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\obj\Debug\net7.0\UnoApp1.DataContracts.GeneratedMSBuildEditorConfig.editorconfig

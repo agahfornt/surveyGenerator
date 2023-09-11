@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-09T10:52:22.961</Modified>
+      <Modified>2023-09-11T13:24:34.535</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-09T10:52:22.350</Modified>
+      <Modified>2023-09-11T13:24:33.928</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1.Windows.runtimeconfig.json">
       <PackagePath>UnoApp1.Windows.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\bin\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\UnoApp1.Windows.dll">
       <PackagePath>UnoApp1.Windows.dll</PackagePath>
-      <Modified>2023-09-09T10:52:21.859</Modified>
+      <Modified>2023-09-11T13:24:33.502</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>UnoApp1.Windows.exe</PackagePath>
-      <Modified>2023-09-09T10:52:21.890</Modified>
+      <Modified>2023-09-11T13:24:33.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agahg\.nuget\packages\uno.winui\4.9.45\lib\net5.0-windows10.0.18362.0\Uno.UI.Toolkit\Themes\Generic.xbf">
       <PackagePath>Uno.UI.Toolkit/Themes\Generic.xbf</PackagePath>
@@ -1192,19 +1192,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.dll">
       <PackagePath>UnoApp1.DataContracts.dll</PackagePath>
-      <Modified>2023-09-08T18:26:12.942</Modified>
+      <Modified>2023-09-11T09:09:12.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0-windows10.0.19041\UnoApp1.dll">
       <PackagePath>UnoApp1.dll</PackagePath>
-      <Modified>2023-09-09T10:52:17.108</Modified>
+      <Modified>2023-09-11T13:24:21.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.DataContracts\bin\Debug\net7.0\UnoApp1.DataContracts.xml">
       <PackagePath>UnoApp1.DataContracts.xml</PackagePath>
-      <Modified>2023-09-08T18:26:12.928</Modified>
+      <Modified>2023-09-11T09:09:12.515</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\bin\Debug\net7.0-windows10.0.19041\UnoApp1.pri">
       <PackagePath>UnoApp1.pri</PackagePath>
-      <Modified>2023-09-09T10:52:18.293</Modified>
+      <Modified>2023-09-11T13:24:22.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agahg\.nuget\packages\uno.winui\4.9.45\lib\net5.0-windows10.0.18362.0\Uno.UI.Toolkit.dll">
       <PackagePath>Uno.UI.Toolkit.dll</PackagePath>
@@ -1244,131 +1244,227 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\AppResources.xbf">
       <PackagePath>UnoApp1\AppResources.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.112</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\dateAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\dateAnswer.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\answerGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\answerGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\colsettingGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\colsettingGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\dateoptionGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\dateoptionGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\drpDownChoose from the options.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\drpDownChoose from the options.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\drpDownStyleSelect.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\drpDownStyleSelect.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\lableSetting.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\lableSetting.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\like_dislikeGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\like_dislikeGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.116</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\min_maxSelect.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\min_maxSelect.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\namingColumnGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\namingColumnGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\numberphoneGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\numberphoneGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\scaleCount.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\scaleCount.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\groupBoxes\timeoptionGBox.xbf">
       <PackagePath>UnoApp1\Presentation\groupBoxes\timeoptionGBox.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\Likert.xbf">
       <PackagePath>UnoApp1\Presentation\Likert.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\likertTable.xbf">
       <PackagePath>UnoApp1\Presentation\likertTable.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.925</Modified>
+      <Modified>2023-09-11T13:24:17.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\like_dislikeAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\like_dislikeAnswer.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\MainPage.xbf">
       <PackagePath>UnoApp1\Presentation\MainPage.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\moltiselectiveTable.xbf">
       <PackagePath>UnoApp1\Presentation\moltiselectiveTable.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\multiAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\multiAnswer.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\multianswerTable.xbf">
       <PackagePath>UnoApp1\Presentation\multianswerTable.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\multiSelective.xbf">
       <PackagePath>UnoApp1\Presentation\multiSelective.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\numberphoneAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\numberphoneAnswer.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\SecondPage.xbf">
       <PackagePath>UnoApp1\Presentation\SecondPage.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\Shell.xbf">
       <PackagePath>UnoApp1\Presentation\Shell.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.123</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\tabBar.xbf">
       <PackagePath>UnoApp1\Presentation\tabBar.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\timeAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\timeAnswer.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\attachFileAnswer.xbf">
+      <PackagePath>UnoApp1\Presentation\views\attachFileAnswer.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\creditcardView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\creditcardView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\dateAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\dateAnswerView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\emailAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\emailAnswerView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\likertAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\likertAnswerView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\likertTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\likertTableView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\like_dislikeAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\like_dislikeAnswerView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\mobilNumberView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\mobilNumberView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.129</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multiAnswerView.xbf">
       <PackagePath>UnoApp1\Presentation\views\multiAnswerView.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multiselectiveTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multiselectiveTableView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multyAnswerTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multyAnswerTableView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multySelectiveView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multySelectiveView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\regionselectView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\regionselectView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\timeAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\timeAnswerView.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\browseFileUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\browseFileUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\cityselectUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\cityselectUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\countryselectUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\countryselectUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\creditcardUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\creditcardUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\dateAnswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\dateAnswerUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\emailanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\emailanswerUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.134</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\likertscaleUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\likertscaleUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\mobileNumberUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\mobileNumberUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\multianswerUserControl.xbf">
       <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\timeanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\timeanswerUserControl.xbf</PackagePath>
+      <Modified>2023-09-11T13:24:17.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf">
       <PackagePath>UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Styles\ColorPaletteOverride.xbf">
       <PackagePath>UnoApp1\Styles\ColorPaletteOverride.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Styles\MaterialFontsOverride.xbf">
       <PackagePath>UnoApp1\Styles\MaterialFontsOverride.xbf</PackagePath>
-      <Modified>2023-09-09T10:52:12.941</Modified>
+      <Modified>2023-09-11T13:24:17.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Font\MobileIcons.ttf">
       <PackagePath>UnoApp1\Assets\Font\MobileIcons.ttf</PackagePath>
@@ -1442,6 +1538,14 @@
       <PackagePath>UnoApp1\Assets\Icons\square_up.svg</PackagePath>
       <Modified>2023-08-01T13:57:00.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\star.svg">
+      <PackagePath>UnoApp1\Assets\Icons\star.svg</PackagePath>
+      <Modified>2023-08-01T13:57:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\star_on.svg">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.svg</PackagePath>
+      <Modified>2023-09-11T07:41:14.351</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\logo.png">
       <PackagePath>UnoApp1\Assets\logo.png</PackagePath>
       <Modified>2023-08-27T03:44:46.696</Modified>
@@ -1452,451 +1556,507 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.png">
       <PackagePath>UnoApp1\Assets\Icons\back.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.532</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.533</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.534</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.256</Modified>
+      <Modified>2023-09-11T13:24:17.535</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.272</Modified>
+      <Modified>2023-09-11T13:24:17.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.293</Modified>
+      <Modified>2023-09-11T13:24:17.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.308</Modified>
+      <Modified>2023-09-11T13:24:17.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.352</Modified>
+      <Modified>2023-09-11T13:24:17.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.408</Modified>
+      <Modified>2023-09-11T13:24:18.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.529</Modified>
+      <Modified>2023-09-11T13:24:18.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.745</Modified>
+      <Modified>2023-09-11T13:24:19.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.765</Modified>
+      <Modified>2023-09-11T13:24:17.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.785</Modified>
+      <Modified>2023-09-11T13:24:17.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.815</Modified>
+      <Modified>2023-09-11T13:24:17.693</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.856</Modified>
+      <Modified>2023-09-11T13:24:17.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.926</Modified>
+      <Modified>2023-09-11T13:24:18.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.076</Modified>
+      <Modified>2023-09-11T13:24:18.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.386</Modified>
+      <Modified>2023-09-11T13:24:19.841</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.406</Modified>
+      <Modified>2023-09-11T13:24:17.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.418</Modified>
+      <Modified>2023-09-11T13:24:17.707</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.448</Modified>
+      <Modified>2023-09-11T13:24:17.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.489</Modified>
+      <Modified>2023-09-11T13:24:18.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.559</Modified>
+      <Modified>2023-09-11T13:24:18.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.718</Modified>
+      <Modified>2023-09-11T13:24:19.098</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_down.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_down.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.987</Modified>
+      <Modified>2023-09-11T13:24:19.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.272</Modified>
+      <Modified>2023-09-11T13:24:17.486</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.293</Modified>
+      <Modified>2023-09-11T13:24:17.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.321</Modified>
+      <Modified>2023-09-11T13:24:17.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.352</Modified>
+      <Modified>2023-09-11T13:24:17.931</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.424</Modified>
+      <Modified>2023-09-11T13:24:18.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.576</Modified>
+      <Modified>2023-09-11T13:24:18.663</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_left.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_left.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.856</Modified>
+      <Modified>2023-09-11T13:24:19.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.876</Modified>
+      <Modified>2023-09-11T13:24:17.504</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.896</Modified>
+      <Modified>2023-09-11T13:24:17.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.916</Modified>
+      <Modified>2023-09-11T13:24:17.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.956</Modified>
+      <Modified>2023-09-11T13:24:17.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.034</Modified>
+      <Modified>2023-09-11T13:24:18.242</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.195</Modified>
+      <Modified>2023-09-11T13:24:18.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_right.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_right.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.497</Modified>
+      <Modified>2023-09-11T13:24:19.824</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.519</Modified>
+      <Modified>2023-09-11T13:24:17.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.539</Modified>
+      <Modified>2023-09-11T13:24:17.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.567</Modified>
+      <Modified>2023-09-11T13:24:17.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.593</Modified>
+      <Modified>2023-09-11T13:24:17.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.677</Modified>
+      <Modified>2023-09-11T13:24:18.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.825</Modified>
+      <Modified>2023-09-11T13:24:18.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_up.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_up.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.100</Modified>
+      <Modified>2023-09-11T13:24:19.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.007</Modified>
+      <Modified>2023-09-11T13:24:19.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.019</Modified>
+      <Modified>2023-09-11T13:24:19.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.050</Modified>
+      <Modified>2023-09-11T13:24:19.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.090</Modified>
+      <Modified>2023-09-11T13:24:19.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.168</Modified>
+      <Modified>2023-09-11T13:24:19.889</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.322</Modified>
+      <Modified>2023-09-11T13:24:20.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\circle_xmark.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\circle_xmark.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.592</Modified>
+      <Modified>2023-09-11T13:24:20.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.272</Modified>
+      <Modified>2023-09-11T13:24:17.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.293</Modified>
+      <Modified>2023-09-11T13:24:17.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.321</Modified>
+      <Modified>2023-09-11T13:24:17.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.365</Modified>
+      <Modified>2023-09-11T13:24:17.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.424</Modified>
+      <Modified>2023-09-11T13:24:18.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.576</Modified>
+      <Modified>2023-09-11T13:24:18.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.854</Modified>
+      <Modified>2023-09-11T13:24:19.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.876</Modified>
+      <Modified>2023-09-11T13:24:17.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.894</Modified>
+      <Modified>2023-09-11T13:24:17.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.916</Modified>
+      <Modified>2023-09-11T13:24:17.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:13.956</Modified>
+      <Modified>2023-09-11T13:24:17.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.026</Modified>
+      <Modified>2023-09-11T13:24:18.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.187</Modified>
+      <Modified>2023-09-11T13:24:18.865</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.489</Modified>
+      <Modified>2023-09-11T13:24:19.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.509</Modified>
+      <Modified>2023-09-11T13:24:17.519</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.528</Modified>
+      <Modified>2023-09-11T13:24:17.576</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.559</Modified>
+      <Modified>2023-09-11T13:24:17.745</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.593</Modified>
+      <Modified>2023-09-11T13:24:17.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.656</Modified>
+      <Modified>2023-09-11T13:24:18.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.810</Modified>
+      <Modified>2023-09-11T13:24:18.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.098</Modified>
+      <Modified>2023-09-11T13:24:19.632</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.png">
       <PackagePath>UnoApp1\Assets\Icons\random.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.160</Modified>
+      <Modified>2023-09-11T13:24:19.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.180</Modified>
+      <Modified>2023-09-11T13:24:19.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.211</Modified>
+      <Modified>2023-09-11T13:24:19.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.251</Modified>
+      <Modified>2023-09-11T13:24:19.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.332</Modified>
+      <Modified>2023-09-11T13:24:19.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.492</Modified>
+      <Modified>2023-09-11T13:24:20.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\random.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.771</Modified>
+      <Modified>2023-09-11T13:24:20.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.png</PackagePath>
-      <Modified>2023-09-09T10:52:14.999</Modified>
+      <Modified>2023-09-11T13:24:17.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.019</Modified>
+      <Modified>2023-09-11T13:24:17.621</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.046</Modified>
+      <Modified>2023-09-11T13:24:17.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.080</Modified>
+      <Modified>2023-09-11T13:24:17.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.140</Modified>
+      <Modified>2023-09-11T13:24:18.049</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.282</Modified>
+      <Modified>2023-09-11T13:24:18.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_down.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\square_down.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.512</Modified>
+      <Modified>2023-09-11T13:24:19.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.120</Modified>
+      <Modified>2023-09-11T13:24:17.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.140</Modified>
+      <Modified>2023-09-11T13:24:17.501</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.160</Modified>
+      <Modified>2023-09-11T13:24:17.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.198</Modified>
+      <Modified>2023-09-11T13:24:17.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.251</Modified>
+      <Modified>2023-09-11T13:24:17.884</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.382</Modified>
+      <Modified>2023-09-11T13:24:18.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_minus.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\square_minus.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.613</Modified>
+      <Modified>2023-09-11T13:24:19.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.631</Modified>
+      <Modified>2023-09-11T13:24:17.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.641</Modified>
+      <Modified>2023-09-11T13:24:17.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.663</Modified>
+      <Modified>2023-09-11T13:24:17.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.703</Modified>
+      <Modified>2023-09-11T13:24:17.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.753</Modified>
+      <Modified>2023-09-11T13:24:17.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:15.870</Modified>
+      <Modified>2023-09-11T13:24:18.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_plus.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\square_plus.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.086</Modified>
+      <Modified>2023-09-11T13:24:19.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.091</Modified>
+      <Modified>2023-09-11T13:24:19.222</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-100.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.107</Modified>
+      <Modified>2023-09-11T13:24:19.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-125.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.138</Modified>
+      <Modified>2023-09-11T13:24:19.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-150.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.170</Modified>
+      <Modified>2023-09-11T13:24:19.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-200.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.223</Modified>
+      <Modified>2023-09-11T13:24:19.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-300.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.339</Modified>
+      <Modified>2023-09-11T13:24:19.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:16.554</Modified>
+      <Modified>2023-09-11T13:24:20.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-100.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-125.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-150.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-200.png</PackagePath>
+      <Modified>2023-09-11T13:24:18.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-300.png</PackagePath>
+      <Modified>2023-09-11T13:24:18.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-400.png</PackagePath>
+      <Modified>2023-09-11T13:24:19.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-100.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-125.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-150.png</PackagePath>
+      <Modified>2023-09-11T13:24:17.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-200.png</PackagePath>
+      <Modified>2023-09-11T13:24:18.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-300.png</PackagePath>
+      <Modified>2023-09-11T13:24:18.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-400.png</PackagePath>
+      <Modified>2023-09-11T13:24:19.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agahg\.nuget\packages\uno.extensions.core.winui\2.4.2\lib\net6.0-windows10.0.18362\Uno.Extensions.Core.UI.pri">
       <PackagePath>Uno.Extensions.Core.UI.pri</PackagePath>
@@ -1964,27 +2124,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-100.png">
       <PackagePath>splash_screen.scale-100.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.166</Modified>
+      <Modified>2023-09-11T13:24:32.754</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-125.png">
       <PackagePath>splash_screen.scale-125.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.197</Modified>
+      <Modified>2023-09-11T13:24:32.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-150.png">
       <PackagePath>splash_screen.scale-150.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.229</Modified>
+      <Modified>2023-09-11T13:24:32.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-200.png">
       <PackagePath>splash_screen.scale-200.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.298</Modified>
+      <Modified>2023-09-11T13:24:32.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-300.png">
       <PackagePath>splash_screen.scale-300.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.437</Modified>
+      <Modified>2023-09-11T13:24:33.039</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\sp\splash_screen.scale-400.png">
       <PackagePath>splash_screen.scale-400.png</PackagePath>
-      <Modified>2023-09-09T10:52:21.675</Modified>
+      <Modified>2023-09-11T13:24:33.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1.Windows\obj\x64\Debug\net7.0-windows10.0.19041.0\win10-x64\unoresizetizer\r\iconapp.ico">
       <PackagePath>iconapp.ico</PackagePath>

@@ -1012,11 +1012,83 @@
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\timeAnswer.xbf">
       <PackagePath>UnoApp1\Presentation\timeAnswer.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\attachFileAnswer.xbf">
+      <PackagePath>UnoApp1\Presentation\views\attachFileAnswer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\creditcardView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\creditcardView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\dateAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\dateAnswerView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\emailAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\emailAnswerView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\likertAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\likertAnswerView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\likertTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\likertTableView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\like_dislikeAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\like_dislikeAnswerView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\mobilNumberView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\mobilNumberView.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multiAnswerView.xbf">
       <PackagePath>UnoApp1\Presentation\views\multiAnswerView.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multiselectiveTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multiselectiveTableView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multyAnswerTableView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multyAnswerTableView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\multySelectiveView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\multySelectiveView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\regionselectView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\regionselectView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\timeAnswerView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\timeAnswerView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\browseFileUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\browseFileUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\cityselectUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\cityselectUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\countryselectUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\countryselectUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\creditcardUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\creditcardUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\dateAnswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\dateAnswerUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\emailanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\emailanswerUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\likertscaleUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\likertscaleUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\like_dislikeanswerUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\mobileNumberUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\mobileNumberUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\multianswerUserControl.xbf">
       <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\multianswerUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\answer\timeanswerUserControl.xbf">
+      <PackagePath>UnoApp1\Presentation\viewUsercontrol\answer\timeanswerUserControl.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf">
       <PackagePath>UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf</PackagePath>
@@ -1080,6 +1152,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\square_up.svg">
       <PackagePath>UnoApp1\Assets\Icons\square_up.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\star.svg">
+      <PackagePath>UnoApp1\Assets\Icons\star.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\star_on.svg">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.svg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\logo.png">
       <PackagePath>UnoApp1\Assets\logo.png</PackagePath>
@@ -1422,6 +1500,48 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\square_up.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\square_up.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\star.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\star_on.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\star_on.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\agahg\.nuget\packages\uno.extensions.core.winui\2.4.2\lib\net6.0-windows10.0.18362\Uno.Extensions.Core.UI.pri">
       <PackagePath>Uno.Extensions.Core.UI.pri</PackagePath>

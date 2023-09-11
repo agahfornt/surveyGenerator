@@ -13,11 +13,11 @@
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
             <RowDefinition Height="2*"/>
         </Grid.RowDefinitions>
-        <local:multianswerUserControl Grid.Row="0"/>
-        <question:multianswerQuestionControl Grid.Row="1"/>
+        <local:multianswerUserControl Grid.Row="0" VerticalAlignment="Top"/>
+        <question:multianswerQuestionControl Grid.Row="1" VerticalAlignment="Top"/>
     </Grid>
 </UserControl>
 
