@@ -14,12 +14,12 @@
     
 
     <Grid x:ConnectionId='2' x:Name="main">
-        <Grid x:ConnectionId='3' x:Name="window" Visibility="Visible"  Width="500" Height="550" CornerRadius="10">
+        <Grid x:ConnectionId='3' x:Name="window" Visibility="Collapsed"  Width="500" Height="550" CornerRadius="10">
             <!--<local:multiAnswer />-->
-            <local:regionselectView/>
+            <local:mobilNumberView/>
         </Grid>
-        <Grid Width="800" Visibility="Collapsed" Height="650" CornerRadius="10">
-            
+        <Grid Width="800" Visibility="Visible" Height="650" CornerRadius="10">
+            <Button Style="{StaticResource btnClose}"/>
         </Grid>
     </Grid>
 </Page>

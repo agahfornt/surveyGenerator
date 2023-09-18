@@ -218,7 +218,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeNameTable[42] = "UnoApp1.Presentation.Likert";
             _typeNameTable[43] = "UnoApp1.Presentation.likertTable";
             _typeNameTable[44] = "UnoApp1.Presentation.like_dislikeAnswer";
-            _typeNameTable[45] = "UnoApp1.Presentation.views.regionselectView";
+            _typeNameTable[45] = "UnoApp1.Presentation.views.mobilNumberView";
             _typeNameTable[46] = "UnoApp1.Presentation.MainPage";
             _typeNameTable[47] = "Microsoft.UI.Xaml.Controls.Page";
             _typeNameTable[48] = "UnoApp1.Presentation.moltiselectiveTable";
@@ -266,16 +266,16 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeNameTable[90] = "UnoApp1.Presentation.viewUsercontrol.answer.like_dislikeanswerUserControl";
             _typeNameTable[91] = "UnoApp1.Presentation.views.like_dislikeAnswerView";
             _typeNameTable[92] = "UnoApp1.Presentation.viewUsercontrol.answer.mobileNumberUserControl";
-            _typeNameTable[93] = "UnoApp1.Presentation.views.mobilNumberView";
-            _typeNameTable[94] = "UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl";
-            _typeNameTable[95] = "UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl";
-            _typeNameTable[96] = "UnoApp1.Presentation.views.multiAnswerView";
-            _typeNameTable[97] = "UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl";
-            _typeNameTable[98] = "UnoApp1.Presentation.views.multiselectiveTableView";
-            _typeNameTable[99] = "UnoApp1.Presentation.views.multyAnswerTableView";
-            _typeNameTable[100] = "UnoApp1.Presentation.views.multySelectiveView";
-            _typeNameTable[101] = "UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl";
-            _typeNameTable[102] = "UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl";
+            _typeNameTable[93] = "UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl";
+            _typeNameTable[94] = "UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl";
+            _typeNameTable[95] = "UnoApp1.Presentation.views.multiAnswerView";
+            _typeNameTable[96] = "UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl";
+            _typeNameTable[97] = "UnoApp1.Presentation.views.multiselectiveTableView";
+            _typeNameTable[98] = "UnoApp1.Presentation.views.multyAnswerTableView";
+            _typeNameTable[99] = "UnoApp1.Presentation.views.multySelectiveView";
+            _typeNameTable[100] = "UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl";
+            _typeNameTable[101] = "UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl";
+            _typeNameTable[102] = "UnoApp1.Presentation.views.regionselectView";
             _typeNameTable[103] = "UnoApp1.Presentation.viewUsercontrol.answer.timeanswerUserControl";
             _typeNameTable[104] = "UnoApp1.Presentation.views.timeAnswerView";
             _typeNameTable[105] = "Microsoft.UI.Xaml.Controls.RadioButtons";
@@ -329,7 +329,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeTable[42] = typeof(global::UnoApp1.Presentation.Likert);
             _typeTable[43] = typeof(global::UnoApp1.Presentation.likertTable);
             _typeTable[44] = typeof(global::UnoApp1.Presentation.like_dislikeAnswer);
-            _typeTable[45] = typeof(global::UnoApp1.Presentation.views.regionselectView);
+            _typeTable[45] = typeof(global::UnoApp1.Presentation.views.mobilNumberView);
             _typeTable[46] = typeof(global::UnoApp1.Presentation.MainPage);
             _typeTable[47] = typeof(global::Microsoft.UI.Xaml.Controls.Page);
             _typeTable[48] = typeof(global::UnoApp1.Presentation.moltiselectiveTable);
@@ -377,16 +377,16 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
             _typeTable[90] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.like_dislikeanswerUserControl);
             _typeTable[91] = typeof(global::UnoApp1.Presentation.views.like_dislikeAnswerView);
             _typeTable[92] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.mobileNumberUserControl);
-            _typeTable[93] = typeof(global::UnoApp1.Presentation.views.mobilNumberView);
-            _typeTable[94] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl);
-            _typeTable[95] = typeof(global::UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl);
-            _typeTable[96] = typeof(global::UnoApp1.Presentation.views.multiAnswerView);
-            _typeTable[97] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl);
-            _typeTable[98] = typeof(global::UnoApp1.Presentation.views.multiselectiveTableView);
-            _typeTable[99] = typeof(global::UnoApp1.Presentation.views.multyAnswerTableView);
-            _typeTable[100] = typeof(global::UnoApp1.Presentation.views.multySelectiveView);
-            _typeTable[101] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl);
-            _typeTable[102] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl);
+            _typeTable[93] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl);
+            _typeTable[94] = typeof(global::UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl);
+            _typeTable[95] = typeof(global::UnoApp1.Presentation.views.multiAnswerView);
+            _typeTable[96] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl);
+            _typeTable[97] = typeof(global::UnoApp1.Presentation.views.multiselectiveTableView);
+            _typeTable[98] = typeof(global::UnoApp1.Presentation.views.multyAnswerTableView);
+            _typeTable[99] = typeof(global::UnoApp1.Presentation.views.multySelectiveView);
+            _typeTable[100] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl);
+            _typeTable[101] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl);
+            _typeTable[102] = typeof(global::UnoApp1.Presentation.views.regionselectView);
             _typeTable[103] = typeof(global::UnoApp1.Presentation.viewUsercontrol.answer.timeanswerUserControl);
             _typeTable[104] = typeof(global::UnoApp1.Presentation.views.timeAnswerView);
             _typeTable[105] = typeof(global::Microsoft.UI.Xaml.Controls.RadioButtons);
@@ -450,7 +450,7 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
         private object Activate_42_Likert() { return new global::UnoApp1.Presentation.Likert(); }
         private object Activate_43_likertTable() { return new global::UnoApp1.Presentation.likertTable(); }
         private object Activate_44_like_dislikeAnswer() { return new global::UnoApp1.Presentation.like_dislikeAnswer(); }
-        private object Activate_45_regionselectView() { return new global::UnoApp1.Presentation.views.regionselectView(); }
+        private object Activate_45_mobilNumberView() { return new global::UnoApp1.Presentation.views.mobilNumberView(); }
         private object Activate_46_MainPage() { return new global::UnoApp1.Presentation.MainPage(); }
         private object Activate_48_moltiselectiveTable() { return new global::UnoApp1.Presentation.moltiselectiveTable(); }
         private object Activate_49_multiAnswer() { return new global::UnoApp1.Presentation.multiAnswer(); }
@@ -479,16 +479,16 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
         private object Activate_90_like_dislikeanswerUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.like_dislikeanswerUserControl(); }
         private object Activate_91_like_dislikeAnswerView() { return new global::UnoApp1.Presentation.views.like_dislikeAnswerView(); }
         private object Activate_92_mobileNumberUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.mobileNumberUserControl(); }
-        private object Activate_93_mobilNumberView() { return new global::UnoApp1.Presentation.views.mobilNumberView(); }
-        private object Activate_94_multianswerUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl(); }
-        private object Activate_95_multianswerQuestionControl() { return new global::UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl(); }
-        private object Activate_96_multiAnswerView() { return new global::UnoApp1.Presentation.views.multiAnswerView(); }
-        private object Activate_97_multiSelectiveUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl(); }
-        private object Activate_98_multiselectiveTableView() { return new global::UnoApp1.Presentation.views.multiselectiveTableView(); }
-        private object Activate_99_multyAnswerTableView() { return new global::UnoApp1.Presentation.views.multyAnswerTableView(); }
-        private object Activate_100_multySelectiveView() { return new global::UnoApp1.Presentation.views.multySelectiveView(); }
-        private object Activate_101_countryselectUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl(); }
-        private object Activate_102_cityselectUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl(); }
+        private object Activate_93_multianswerUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl(); }
+        private object Activate_94_multianswerQuestionControl() { return new global::UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl(); }
+        private object Activate_95_multiAnswerView() { return new global::UnoApp1.Presentation.views.multiAnswerView(); }
+        private object Activate_96_multiSelectiveUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl(); }
+        private object Activate_97_multiselectiveTableView() { return new global::UnoApp1.Presentation.views.multiselectiveTableView(); }
+        private object Activate_98_multyAnswerTableView() { return new global::UnoApp1.Presentation.views.multyAnswerTableView(); }
+        private object Activate_99_multySelectiveView() { return new global::UnoApp1.Presentation.views.multySelectiveView(); }
+        private object Activate_100_countryselectUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl(); }
+        private object Activate_101_cityselectUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl(); }
+        private object Activate_102_regionselectView() { return new global::UnoApp1.Presentation.views.regionselectView(); }
         private object Activate_103_timeanswerUserControl() { return new global::UnoApp1.Presentation.viewUsercontrol.answer.timeanswerUserControl(); }
         private object Activate_104_timeAnswerView() { return new global::UnoApp1.Presentation.views.timeAnswerView(); }
         private object Activate_105_RadioButtons() { return new global::Microsoft.UI.Xaml.Controls.RadioButtons(); }
@@ -805,9 +805,9 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 45:   //  UnoApp1.Presentation.views.regionselectView
+            case 45:   //  UnoApp1.Presentation.views.mobilNumberView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_45_regionselectView;
+                userType.Activator = Activate_45_mobilNumberView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -1155,72 +1155,72 @@ namespace UnoApp1.UnoApp1_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 93:   //  UnoApp1.Presentation.views.mobilNumberView
+            case 93:   //  UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_93_mobilNumberView;
+                userType.Activator = Activate_93_multianswerUserControl;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 94:   //  UnoApp1.Presentation.viewUsercontrol.answer.multianswerUserControl
+            case 94:   //  UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_94_multianswerUserControl;
+                userType.Activator = Activate_94_multianswerQuestionControl;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 95:   //  UnoApp1.Presentation.viewUsercontrol.question.multianswerQuestionControl
+            case 95:   //  UnoApp1.Presentation.views.multiAnswerView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_95_multianswerQuestionControl;
+                userType.Activator = Activate_95_multiAnswerView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 96:   //  UnoApp1.Presentation.views.multiAnswerView
+            case 96:   //  UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_96_multiAnswerView;
+                userType.Activator = Activate_96_multiSelectiveUserControl;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 97:   //  UnoApp1.Presentation.viewUsercontrol.answer.multiSelectiveUserControl
+            case 97:   //  UnoApp1.Presentation.views.multiselectiveTableView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_97_multiSelectiveUserControl;
+                userType.Activator = Activate_97_multiselectiveTableView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 98:   //  UnoApp1.Presentation.views.multiselectiveTableView
+            case 98:   //  UnoApp1.Presentation.views.multyAnswerTableView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_98_multiselectiveTableView;
+                userType.Activator = Activate_98_multyAnswerTableView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 99:   //  UnoApp1.Presentation.views.multyAnswerTableView
+            case 99:   //  UnoApp1.Presentation.views.multySelectiveView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_99_multyAnswerTableView;
+                userType.Activator = Activate_99_multySelectiveView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 100:   //  UnoApp1.Presentation.views.multySelectiveView
+            case 100:   //  UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_100_multySelectiveView;
+                userType.Activator = Activate_100_countryselectUserControl;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 101:   //  UnoApp1.Presentation.viewUsercontrol.answer.countryselectUserControl
+            case 101:   //  UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_101_countryselectUserControl;
+                userType.Activator = Activate_101_cityselectUserControl;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
 
-            case 102:   //  UnoApp1.Presentation.viewUsercontrol.answer.cityselectUserControl
+            case 102:   //  UnoApp1.Presentation.views.regionselectView
                 userType = new global::UnoApp1.UnoApp1_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Microsoft.UI.Xaml.Controls.UserControl"));
-                userType.Activator = Activate_102_cityselectUserControl;
+                userType.Activator = Activate_102_regionselectView;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
