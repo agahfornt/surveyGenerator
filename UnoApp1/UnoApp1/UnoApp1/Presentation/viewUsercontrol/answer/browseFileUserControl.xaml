@@ -42,7 +42,7 @@
             </VisualStateGroup>
         </VisualStateManager.VisualStateGroups>
 
-        <Button x:Name="btnBrowse" Grid.Row="0" Grid.Column="0"   PointerEntered="btnBrowse_PointerEntered" PointerExited="btnBrowse_PointerExited" PointerPressed="btnBrowse_PointerPressed" PointerReleased="btnBrowse_PointerReleased" PreviewKeyDown="btnBrowse_PreviewKeyDown" Click="btnBrowse_Click" KeyDown="btnBrowse_KeyDown" KeyUp="btnBrowse_KeyUp" Style="{StaticResource btnUpload}"/>
+        <Button x:Name="btnBrowse" Grid.Row="0" Grid.Column="0"   PointerEntered="btnBrowse_PointerEntered" PointerExited="btnBrowse_PointerExited" PointerPressed="btnBrowse_PointerPressed" PointerReleased="btnBrowse_PointerReleased" Click="btnBrowse_Click" Style="{StaticResource btnUpload}"/>
         <Image x:Name="imgFolderIcon" Grid.Row="0"  Grid.Column="1" Source="/UnoApp1/Assets/Icons/folder_closed.svg"  Width="15" Height="15" HorizontalAlignment="Left"/>
         <TextBlock x:Name="txtExtensionInfo" Grid.Row="1" Grid.Column="0"  Visibility="Collapsed"  Text=".jpg .png .mpeg .mp4" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="15,5"  Foreground="{StaticResource questionForground_light}" FontFamily="B yekan" FontSize="12"/>
         <TextBlock x:Name="txtUploadInfo" Grid.Row="2" Grid.Column="0"  Text="فایل تا حداکثر سایز 1000 کیلوبایت" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="15,5" Foreground="{StaticResource questionForground_light}" FontFamily="B yekan" FontSize="12"/>
