@@ -9,7 +9,7 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
 
-    <Grid>
+    <Grid Background="{StaticResource answerBackground_light}" CornerRadius="5" Padding="5">
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <Image Source="/UnoApp1/Assets/Icons/face_meh.svg" Width="25" Height="25" Margin="10"/>
             <Image Source="/UnoApp1/Assets/Icons/face_smile.svg" Width="25" Height="25" Margin="10"/>

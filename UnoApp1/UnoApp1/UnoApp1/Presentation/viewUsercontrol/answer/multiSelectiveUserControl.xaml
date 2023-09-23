@@ -9,7 +9,7 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
 
-    <Grid Background="WhiteSmoke" VerticalAlignment="Top" HorizontalAlignment="Stretch" Margin="10" CornerRadius="5">
+    <Grid Background="{StaticResource answerBackground_light}" CornerRadius="5" Padding="15" VerticalAlignment="Top" HorizontalAlignment="Stretch">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>

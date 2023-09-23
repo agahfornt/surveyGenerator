@@ -10,16 +10,16 @@
 	xmlns:utu="using:Uno.Toolkit.UI"
 	NavigationCacheMode="Required"
 	Background="{ThemeResource BackgroundBrush}">
-    
-    
 
-    <Grid x:Name="main">
-        <Grid x:Name="window" Visibility="Collapsed"  Width="500" Height="550" CornerRadius="10">
+
+
+    <Grid x:Name="main" >
+        <Grid x:Name="window" Visibility="Visible">
             <!--<local:multiAnswer />-->
-            <local:mobilNumberView/>
+            <local:responceView/>
         </Grid>
-        <Grid Width="800" Visibility="Visible" Height="650" CornerRadius="10">
-            <Button Style="{StaticResource btnClose}"/>
-        </Grid>
+        <!--<Grid Width="800" Visibility="Visible" Height="650" CornerRadius="10">
+            <Button Background="{StaticResource primary_light}"/>
+        </Grid>-->
     </Grid>
 </Page>

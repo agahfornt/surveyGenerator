@@ -9,15 +9,27 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
 
-    <Grid MaxHeight="100">
+    <Grid Background="{StaticResource answerBackground_light}" CornerRadius="5" Padding="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBlock Grid.Row="0" Text="تاریخ خرید" HorizontalAlignment="Center"/>
-        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
-            <Image Source="/UnoApp1/Assets/Icons/calendar_check.svg" Width="25" Height="25" Margin="10"/>
-            <DropDownButton Content="تاریخ"/>
+        <StackPanel Grid.Column="0" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Image Source="/UnoApp1/Assets/Icons/calendar_check.svg" Width="25" Height="25"/>
+            <ComboBox Style="{StaticResource cmbBox}"/>
+            <TextBox Text="1400-06-31" MinHeight="25" MaxHeight="40" Padding="5" FontSize="14" Foreground="LightGray" Margin="10,10,0,10"/>
+            <TextBlock Text="تاریخ خرید" VerticalAlignment="Center" Margin="10" Foreground="{StaticResource questionForground_light}"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Image Source="/UnoApp1/Assets/Icons/calendar_check.svg" Width="25" Height="25"/>
+            <ComboBox Style="{StaticResource cmbBox}"/>
+            <TextBox Text="1400-06-31" MinHeight="25" MaxHeight="40" Padding="5" FontSize="14" Foreground="LightGray" Margin="10,10,0,10"/>
+            <TextBlock Text="تاریخ خرید" VerticalAlignment="Center" Margin="10" Foreground="{StaticResource questionForground_light}"/>
         </StackPanel>
     </Grid>
 </UserControl>

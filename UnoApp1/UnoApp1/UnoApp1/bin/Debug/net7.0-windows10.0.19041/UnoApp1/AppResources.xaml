@@ -9,8 +9,99 @@
 			FontOverrideSource="ms-appx:///UnoApp1/Styles/MaterialFontsOverride.xaml" />
 
         <ResourceDictionary>
+            <!--Color value-->
+            <Color x:Key="pageTheme_light" >#F3F1EF</Color>
+            <Color x:Key="pageTheme_dark" >#585756</Color>
+            <Color x:Key="primary_light" >#3CB4F8</Color>
+            <Color x:Key="primary_dark" >#64BCEE</Color>
+            <Color x:Key="secondary_light" >#7CC8F2</Color>
+            <Color x:Key="secondary_dark" >#96CCEA</Color>
+            <Color x:Key="MouseOver_light" >#23B9DA</Color>
+            <Color x:Key="onMouseOver_dark" >#00BEE8</Color>
+            <Color x:Key="clickPress_light" >#47D6EA</Color>
+            <Color x:Key="clickPress_dark" >#67EEF6</Color>
+            <Color x:Key="disable_light" >#98CCD3</Color>
+            <Color x:Key="disable_dark" >#76BFC3</Color>
+            <Color x:Key="questionBackground_light" >#F8F8F8</Color>
+            <Color x:Key="questionForground_light" >#737876</Color>
+            <Color x:Key="answerBackground_light" >#D2D1D1</Color>
+            <Color x:Key="buttonForground_light" >#ffffff</Color>
+            <Color x:Key="buttonForground_Dark" >#555656</Color>
+            <Color x:Key="borderBackground_light" >#D9D9D0</Color>
+            <Color x:Key="likertBackground_light" >#E0E0DA</Color>
+            <!--chooseButton-->
+                <!--Default State-->
+            <Style TargetType="Button" x:Key="btnUpload">
+                <Setter Property="Content" Value="انتخاب فایل"/>
+                <Setter Property="FontFamily" Value="B yekan"/>
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="MaxWidth" Value="220"/>
+                <Setter Property="MaxHeight" Value="30"/>
+                <Setter Property="MinWidth" Value="180"/>
+                <Setter Property="MinHeight" Value="20"/>
+                <Setter Property="Background" Value="{StaticResource primary_light}"/>
+                <Setter Property="Foreground" Value="{StaticResource buttonForground_light}"/>
+                <Setter Property="CornerRadius" Value="5"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Right"/>
+                <Setter Property="Margin" Value="10,5"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="ToolTipService.ToolTip" Value=".jpeg/.jpg/.mpeg"/>
+            </Style>
+                <!--Hover State-->
+            <Style TargetType="Button" x:Key="btnUpload_pressed">
+                <Setter Property="Foreground" Value="{StaticResource buttonForground_light}"/>
+                <Setter Property="Background" Value="{StaticResource clickPress_light}"/>
+            </Style>
+            <Style TargetType="Button" x:Key="btnChoose_Hover">
+                <Setter Property="Content" Value="انتخاب فایل"/>
+                <Setter Property="FontFamily" Value="B yekan"/>
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="MaxWidth" Value="220"/>
+                <Setter Property="MaxHeight" Value="30"/>
+                <Setter Property="MinWidth" Value="180"/>
+                <Setter Property="MinHeight" Value="20"/>
+                <Setter Property="Background" Value="{StaticResource onMouseOver_light}"/>
+                <Setter Property="Foreground" Value="{StaticResource buttonForground_Dark}"/>
+                <Setter Property="CornerRadius" Value="5"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Right"/>
+                <Setter Property="Margin" Value="10,5"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="ToolTipService.ToolTip" Value=".jpeg/.jpg/.mpeg"/>
+            </Style>
+                <!--click State-->
+            <Style TargetType="Button" x:Key="btnChoose_Pressed">
+                <Setter Property="Content" Value="انتخاب فایل"/>
+                <Setter Property="FontFamily" Value="B yekan"/>
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="MaxWidth" Value="220"/>
+                <Setter Property="MaxHeight" Value="30"/>
+                <Setter Property="MinWidth" Value="180"/>
+                <Setter Property="MinHeight" Value="20"/>
+                <Setter Property="Background" Value="{StaticResource clickPress_light}"/>
+                <Setter Property="Foreground" Value="{StaticResource buttonForground_Dark}"/>
+                <Setter Property="CornerRadius" Value="5"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+                <Setter Property="HorizontalAlignment" Value="Right"/>
+                <Setter Property="Margin" Value="10,5"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="ToolTipService.ToolTip" Value=".jpeg/.jpg/.mpeg"/>
+            </Style>
+            <!--chooseButton-->
             
-           
+            <!--ComboBox-->
+            <!--Default State-->
+            <Style TargetType="ComboBox" x:Key="cmbBox">
+                <Setter Property="Background" Value="#CECCCE"/>
+                <Setter Property="Margin" Value="5"/>
+                <Setter Property="MaxHeight" Value="40"/>
+                <Setter Property="MinHeight" Value="25"/>
+                <Setter Property="Text" Value="Date"/>
+                <Setter Property="VerticalAlignment" Value="Center"/>
+            </Style>
+            <!--ComboBox-->
+            
             
             <!--close buttomn-->
             <Style TargetType="Button" x:Key="btnClose">
@@ -26,9 +117,8 @@
                 <Setter Property="Margin" Value="25,0,0,0"/>
             </Style>
         </ResourceDictionary>
-        
     </ResourceDictionary.MergedDictionaries>
 	<!-- Add resources here -->
-
+    
 </ResourceDictionary>
 

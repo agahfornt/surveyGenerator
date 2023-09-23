@@ -23,5 +23,47 @@ namespace UnoApp1.Presentation.viewUsercontrol.answer
         {
             this.InitializeComponent();
         }
+
+     
+
+        private void btnBrowse_PointerExited(object sender, PointerRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(normall), true);
+        }
+
+        private void btnBrowse_PointerEntered(object sender, PointerRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(uploadButtonHover), true);
+        }
+
+        private void btnBrowse_PointerPressed(object sender, PointerRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(uploadButtonHover), true);
+        }
+
+        private void btnBrowse_PointerReleased(object sender, PointerRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(normall), true);
+        }
+
+        private void btnBrowse_KeyDown(object sender, KeyRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(uploadButtonHover), true);
+        }
+
+        private void btnBrowse_KeyUp(object sender, KeyRoutedEventArgs e)
+        {
+            VisualStateManager.GoToState(this, nameof(normall), true);
+        }
+
+        private void btnBrowse_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnBrowse_PreviewKeyDown(object sender, KeyRoutedEventArgs e)
+        {
+
+        }
     }
 }

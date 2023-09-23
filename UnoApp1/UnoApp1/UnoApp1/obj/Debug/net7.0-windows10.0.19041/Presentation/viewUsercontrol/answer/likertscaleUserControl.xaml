@@ -10,24 +10,34 @@
     d:DesignWidth="400">
     <UserControl.Resources>
         <ControlTemplate x:Key="likertScaleOff" TargetType="Button">
-            <StackPanel>
-                <TextBlock Text="scale" FontSize="12" FontStyle="Normal" Foreground="Black" HorizontalAlignment="Center" Margin="10"/>
-                <Image Source="/UnoApp1/Assets/Icons/star.svg" Width="25" Height="25" HorizontalAlignment="Center"/>
+            <StackPanel VerticalAlignment="Center">
+                <!--<TextBlock Text="scale" FontSize="12" FontStyle="Normal" Foreground="Black" HorizontalAlignment="Center" Margin="10"/>-->
+                <Image Source="/UnoApp1/Assets/Icons/star.svg" Width="25" Height="25" HorizontalAlignment="Center" />
             </StackPanel>
         </ControlTemplate>
         <ControlTemplate x:Key="likertScaleOn" TargetType="Button">
-            <StackPanel>
-                <TextBlock Text="scale" FontSize="12" FontStyle="Normal" Foreground="Black" HorizontalAlignment="Center" Margin="10"/>
-                <Image Source="/UnoApp1/Assets/Icons/star_on.svg" Width="25" Height="25" HorizontalAlignment="Center"/>
+            <StackPanel VerticalAlignment="Center">
+                <!--<TextBlock Text="scale" FontSize="12" FontStyle="Normal" Foreground="Black" HorizontalAlignment="Center" Margin="10"/>-->
+                <Image Source="/UnoApp1/Assets/Icons/star_on.svg" Width="25" Height="25" HorizontalAlignment="Center" />
 
             </StackPanel>
         </ControlTemplate>
     </UserControl.Resources>
-    <Grid>
-        <StackPanel>
-            <Button Template="{StaticResource likertScaleOff}"/>
-            <Button Template="{StaticResource likertScaleOn}"/>
-        </StackPanel>
+    <Grid Background="{StaticResource answerBackground_light}" CornerRadius="5" Padding="15">
+        <Grid Background="{StaticResource likertBackground_light}" CornerRadius="5" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Grid.Column="1" Text=" ردیف" Foreground="{StaticResource questionForground_light}" HorizontalAlignment="Right"  Margin="10"/>
+            <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" >
+                <Button Template="{StaticResource likertScaleOn}"/>
+                <Button Template="{StaticResource likertScaleOff}"/>
+                <Button Template="{StaticResource likertScaleOff}"/>
+                <Button Template="{StaticResource likertScaleOff}"/>
+                <Button Template="{StaticResource likertScaleOff}"/>
+            </StackPanel>
+        </Grid>
     </Grid>
 </UserControl>
 

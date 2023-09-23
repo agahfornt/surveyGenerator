@@ -111,6 +111,7 @@
 	  <None Remove="Presentation\views\multyAnswerTableView.xaml" />
 	  <None Remove="Presentation\views\multySelectiveView.xaml" />
 	  <None Remove="Presentation\views\regionselectView.xaml" />
+	  <None Remove="Presentation\views\responceView.xaml" />
 	  <None Remove="Presentation\views\timeAnswerView.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\browseFileUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\cityselectUserControl.xaml" />
@@ -125,6 +126,7 @@
 	  <None Remove="Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\answer\timeanswerUserControl.xaml" />
 	  <None Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
+	  <None Remove="Presentation\visualStateTest.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -164,6 +166,7 @@
 	  <UpToDateCheckInput Remove="Presentation\views\multyAnswerTableView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\multySelectiveView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\regionselectView.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\views\responceView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\views\timeAnswerView.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\browseFileUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\cityselectUserControl.xaml" />
@@ -178,6 +181,7 @@
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\multiSelectiveUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\answer\timeanswerUserControl.xaml" />
 	  <UpToDateCheckInput Remove="Presentation\viewUsercontrol\question\multianswerQuestionControl.xaml" />
+	  <UpToDateCheckInput Remove="Presentation\visualStateTest.xaml" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -374,5 +378,13 @@
 
 	<ItemGroup>
 	  <AdditionalFiles Remove="Presentation\viewUsercontrol\answer\countryselectUserControl.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\visualStateTest.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="Presentation\views\responceView.xaml" />
 	</ItemGroup>
 </Project>

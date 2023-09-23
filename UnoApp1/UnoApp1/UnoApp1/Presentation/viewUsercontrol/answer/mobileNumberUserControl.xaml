@@ -10,9 +10,10 @@
     d:DesignWidth="400">
 
     <Grid>
-        <StackPanel Orientation="Horizontal">
-            <DropDownButton Content="+98"/>
-            <TextBox Text="912 4541022" FontSize="14" Foreground="LightGray" Margin="10,10,0,10"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Image Source="/UnoApp1/Assets/Icons/mobile_retro.svg" Width="35"  Height="25"/>
+            <DropDownButton Content="+98" MinHeight="35" MaxHeight="45"/>
+            <TextBox Text="912 4541022" FontSize="14" Foreground="LightGray" Background="{StaticResource borderBackground_light}" Margin="10,10,0,10" MinWidth="200" MaxWidth="250" MinHeight="25" MaxHeight="35"/>
         </StackPanel>
     </Grid>
 </UserControl>

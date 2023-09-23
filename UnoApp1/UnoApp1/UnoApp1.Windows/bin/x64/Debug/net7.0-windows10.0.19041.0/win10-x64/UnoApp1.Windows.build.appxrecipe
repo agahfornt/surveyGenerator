@@ -1051,6 +1051,9 @@
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\regionselectView.xbf">
       <PackagePath>UnoApp1\Presentation\views\regionselectView.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\responceView.xbf">
+      <PackagePath>UnoApp1\Presentation\views\responceView.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\views\timeAnswerView.xbf">
       <PackagePath>UnoApp1\Presentation\views\timeAnswerView.xbf</PackagePath>
     </AppxPackagedFile>
@@ -1093,6 +1096,9 @@
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf">
       <PackagePath>UnoApp1\Presentation\viewUsercontrol\question\multianswerQuestionControl.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Presentation\visualStateTest.xbf">
+      <PackagePath>UnoApp1\Presentation\visualStateTest.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\Styles\ColorPaletteOverride.xbf">
       <PackagePath>UnoApp1\Styles\ColorPaletteOverride.xbf</PackagePath>
     </AppxPackagedFile>
@@ -1107,6 +1113,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\back.svg">
       <PackagePath>UnoApp1\Assets\Icons\back.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\bank.svg">
+      <PackagePath>UnoApp1\Assets\Icons\bank.svg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\calendar_check.svg">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.svg</PackagePath>
@@ -1132,11 +1141,20 @@
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\clock.svg">
       <PackagePath>UnoApp1\Assets\Icons\clock.svg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\envelope.svg">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.svg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\face_meh.svg">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.svg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\face_smile.svg">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\folder_closed.svg">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\mobile_retro.svg">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.svg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\Assets\Icons\random.svg">
       <PackagePath>UnoApp1\Assets\Icons\random.svg</PackagePath>
@@ -1185,6 +1203,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\back.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\back.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\bank.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\bank.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\calendar_check.png">
       <PackagePath>UnoApp1\Assets\Icons\calendar_check.png</PackagePath>
@@ -1354,6 +1393,27 @@
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\clock.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\clock.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\envelope.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\envelope.scale-400.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_meh.png">
       <PackagePath>UnoApp1\Assets\Icons\face_meh.png</PackagePath>
     </AppxPackagedFile>
@@ -1395,6 +1455,48 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\face_smile.scale-400.png">
       <PackagePath>UnoApp1\Assets\Icons\face_smile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\folder_closed.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\folder_closed.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-100.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-125.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-150.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-200.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-300.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\mobile_retro.scale-400.png">
+      <PackagePath>UnoApp1\Assets\Icons\mobile_retro.scale-400.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Repository\AzurDev\surveyGenerator\UnoApp1\UnoApp1\UnoApp1\obj\Debug\net7.0-windows10.0.19041\unoresizetizer\r\Assets\Icons\random.png">
       <PackagePath>UnoApp1\Assets\Icons\random.png</PackagePath>

@@ -9,12 +9,44 @@
     d:DesignHeight="300"
     d:DesignWidth="400">
 
-    <Grid>
+    <Grid Background="{StaticResource answerBackground_light}" CornerRadius="5" Padding="15">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <TextBlock Grid.Column="0" Text="فایل تا حداکثر سایز 1000 کیلوبایت" HorizontalAlignment="Right" VerticalAlignment="Center"/>
-        <Button Grid.Column="1" Content="انتخاب فایل" ToolTipService.ToolTip=".jpeg/.jpg/.mpeg" MaxWidth="150" MaxHeight="50" MinWidth="75" MinHeight="30" HorizontalAlignment="Center" VerticalAlignment="Center" CornerRadius="5"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup>
+                <VisualState x:Name="normall">
+                    <VisualState.Setters>
+                        <Setter  Target="txtExtensionInfo.Visibility" Value="Collapsed"/>
+                        <Setter Target="btnBrowse.Style" Value="{StaticResource btnUpload}"/>
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="uploadButtonHover">
+                    <VisualState.Setters>
+                        <Setter Target="btnBrowse.Background" Value="{StaticResource MouseOver_light}"/>
+                    </VisualState.Setters>
+                </VisualState>
+                <VisualState x:Name="pressed">
+                    <VisualState.Setters>
+                        <Setter  Target="txtExtensionInfo.Visibility" Value="Visible"/>
+                        <Setter Target="btnBrowse.Style" Value="{StaticResource btnUpload_pressed}"/>
+                    </VisualState.Setters>
+                </VisualState>
+               
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <Button x:Name="btnBrowse" Grid.Row="0" Grid.Column="0"   PointerEntered="btnBrowse_PointerEntered" PointerExited="btnBrowse_PointerExited" PointerPressed="btnBrowse_PointerPressed" PointerReleased="btnBrowse_PointerReleased" PreviewKeyDown="btnBrowse_PreviewKeyDown" Click="btnBrowse_Click" KeyDown="btnBrowse_KeyDown" KeyUp="btnBrowse_KeyUp" Style="{StaticResource btnUpload}"/>
+        <Image x:Name="imgFolderIcon" Grid.Row="0"  Grid.Column="1" Source="/UnoApp1/Assets/Icons/folder_closed.svg"  Width="15" Height="15" HorizontalAlignment="Left"/>
+        <TextBlock x:Name="txtExtensionInfo" Grid.Row="1" Grid.Column="0"  Visibility="Collapsed"  Text=".jpg .png .mpeg .mp4" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="15,5"  Foreground="{StaticResource questionForground_light}" FontFamily="B yekan" FontSize="12"/>
+        <TextBlock x:Name="txtUploadInfo" Grid.Row="2" Grid.Column="0"  Text="فایل تا حداکثر سایز 1000 کیلوبایت" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="15,5" Foreground="{StaticResource questionForground_light}" FontFamily="B yekan" FontSize="12"/>
+
+
     </Grid>
 </UserControl>
